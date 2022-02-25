@@ -1,0 +1,658 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief testimony to the great duty of prayer shewing the nature and benefit thereof. To which is added, above one hundred eminent and select instances that God did answer prayer. Collected out of the record of Holy Scriptures. By J.T. one of the people call'd Quakers. With a postscript by J.F.</title>
+            <author>Tomkins, John, ca. 1663-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 58 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62883</idno>
+            <idno type="STC">Wing T1831</idno>
+            <idno type="STC">ESTC R222215</idno>
+            <idno type="EEBO-CITATION">99833420</idno>
+            <idno type="PROQUEST">99833420</idno>
+            <idno type="VID">37896</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62883)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37896)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2200:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief testimony to the great duty of prayer shewing the nature and benefit thereof. To which is added, above one hundred eminent and select instances that God did answer prayer. Collected out of the record of Holy Scriptures. By J.T. one of the people call'd Quakers. With a postscript by J.F.</title>
+                  <author>Tomkins, John, ca. 1663-1706.</author>
+                  <author>Field, John, 1652-1723. Earnest perswasive, by way of postscript, for all to mind and receive God's Holy Spirit in their hearts.</author>
+               </titleStmt>
+               <extent>108 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Northcott in George-Yard in Lombard-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>J.T. = John Tomkins.</note>
+                  <note>"An earnest perswasive, by way of postscript, for all to mind and receive God's Holy Spirit in their hearts, .. By John Feild." has a separate undated title page on p. 95.</note>
+                  <note>Copy has print show-through.</note>
+                  <note>Reproduction of the original in the Friends' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  History of Biblical events --  Early works to 1800.</term>
+               <term>Prayer --  Early works to 1800.</term>
+               <term>Christian literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:37896:1" rendition="simple:additions"/>
+                  <p>A BRIEF TESTIMONY To the Great <hi>Duty of Prayer,</hi> Shewing the NATURE and BENEFIT Thereof. To which is added, Above one Hundred Eminent and Select Inſtances that God did anſwer Prayer. Collected out of the <hi>Record of the Holy Scriptures.</hi>
+                  </p>
+                  <p>By <hi>J. T.</hi> one of the People call'd Quakers.</p>
+                  <p>With a Poſtſcript by <hi>J. F.</hi>
+                  </p>
+                  <q>
+                     <p>
+                        <hi>Watch</hi> and <hi>Pray,</hi> 
+                        <bibl>
+                           <hi>Matt. 26.41. Col. 4.2.</hi>
+                        </bibl> And <hi>and things</hi> whatſoever ye <hi>ask</hi> in <hi>Prayes, believ<g ref="char:EOLhyphen"/>ing,</hi> ye ſhall receive,
+<bibl>
+                           <hi>Mat. 21.22.</hi>
+                        </bibl>
+                     </p>
+                     <p>And <hi>prove me</hi> now <hi>herewith,</hi> ſaith the Lord of Hosts, if I will not <hi>open</hi> you the <hi>Windows of Heaven,</hi> and <hi>pour</hi> you out <hi>a Bleſſing</hi> that there ſhall not be <hi>room enough</hi> to <hi>receive</hi> it,
+<bibl>Mal. <hi>3.10.</hi>
+                        </bibl>
+                     </p>
+                  </q>
+                  <p>
+                     <hi>LONDON:</hi> Printed for <hi>Tho. Northcon</hi> in <hi>George-Yard</hi> in <hi>Lombard-ſtreet.</hi> 1695.</p>
+               </div>
+            </front>
+            <body>
+               <div type="part">
+                  <pb facs="tcp:37896:2"/>
+                  <pb n="3" facs="tcp:37896:2"/>
+                  <head>A BRIEF Teſtimony, <hi>&amp;c.</hi>
+                  </head>
+                  <p>
+                     <hi>WAtch and Pray,</hi> was the Command of our
+<note n="(a)" place="margin">
+                        <hi>Mat.</hi> 26.41.</note> Lord Jeſus, the Holy Author of the Chriſtian Religion: He gave a good reaſon for this Com<g ref="char:EOLhyphen"/>mand, <hi>That ye enter not into Temptation.</hi> And knowing how uncapable Man is to per<g ref="char:EOLhyphen"/>form any good of himſelf, promiſed to pray
+<note n="(b)" place="margin">
+                        <hi>Jo.</hi> 14.16.</note> the Father to ſend the Comforter that he may abide with us for ever, even the
+<pb n="4" facs="tcp:37896:3"/>Spirit of Truth, whom the World cannot receive; and in the 26 <hi>v.</hi> ſaith, but <hi>the Com<g ref="char:EOLhyphen"/>forter which is the Holy Ghoſt,</hi> which my Father will ſend in my Name, <hi>He ſhall teach you all things;</hi> then certainly, Prayer, ſo great a Duty to God, and beneficial to our ſelves, is included. Our Lord puts <hi>Watching</hi> before <hi>Prayer,</hi> that we may have due regard to, and wait <hi>upon</hi> his Holy Spirit to feel its leadings and aſſiſt<g ref="char:EOLhyphen"/>ance therein. As <hi>Paul</hi> adviſed <hi>Timothy</hi> in both his Epiſtles not to neglect the
+<note n="(c)" place="margin">1 <hi>Tim.</hi> 4.14. 2 <hi>Tim.</hi> 1.6.</note> Gift of God which was in him: For waiting upon the Lord in the Gift of his Spirit is neceſſary for all to be found in, who
+<pb n="5" facs="tcp:37896:3"/>deſire to perform this Duty a<g ref="char:EOLhyphen"/>right (or indeed any other work which is acceptable un<g ref="char:EOLhyphen"/>to God) if we go about Prayer and take not this advice we begin wrong; <hi>for from
+<note n="(d)" place="margin">
+                           <hi>Mat.</hi> 15.19.</note> with<g ref="char:EOLhyphen"/>in</hi> (as our Lord ſaid) <hi>proceedeth all Evil.</hi> Therefore we have need to apply our ſelves to within, to find the Remedy where the Diſeaſe is; and as we wait in true ſilence, ceaſing from our own Thoughts and willings, with our Minds ſtayed and fixed upon the Lord, truſting in him we ſhall be made ſen<g ref="char:EOLhyphen"/>ſible of our Wants and Infir<g ref="char:EOLhyphen"/>mities, and the Sin which doth moſt eaſily beſet us; thus as the ſtate of our Souls is opened to us, ſhall ſee our
+<pb n="4" facs="tcp:37896:4"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="5" facs="tcp:37896:4"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="4" facs="tcp:37896:5"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="5" facs="tcp:37896:5"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="6" facs="tcp:37896:6"/>own Nothingneſs and Inabi<g ref="char:EOLhyphen"/>lity, to reſiſt any appearance of Evil of our ſelves. God will not deſpiſe ſuch who are poor in their own Eyes, but will direct them by his Holy Spirit how to <hi>ask,</hi> not only inclining their wills to Prayer, but opening their Underſtand<g ref="char:EOLhyphen"/>ings alſo what to <hi>ask for.</hi> And inaſmuch that we know not at what time the Devil our
+<note n="(*)" place="margin">1 <hi>Pet.</hi> 5.8.</note> Adverſary (who goes continually a<g ref="char:EOLhyphen"/>bout ſeeking whom may he devour) will aſſault us, nor with what Temptation he will come, therefore can there be any ſet time, or from of words preſcribed which we muſt uſe to God, when we implore <hi>his</hi> Succour and Relief; other<g ref="char:EOLhyphen"/>wiſe
+<pb n="7" facs="tcp:37896:6"/>than we feel the draw<g ref="char:EOLhyphen"/>ings and motions of his Spirit in our Hearts, which will not be wanting to incline and aſ<g ref="char:EOLhyphen"/>ſiſt us upon every occaſion; yea, very often not only when we are tempted, but at other times alſo.</p>
+                  <p>Various were the Methods both as to time and words as well as place, which the Ho<g ref="char:EOLhyphen"/>ly Men of Old ſought the Lord. <hi>Daniel</hi> and <hi>David</hi>
+                     <note n="(†)" place="margin">
+                        <hi>Dan.</hi> 6.10. <hi>Pſal.</hi> 55.17.</note> ſometimes prayed three times a day: <hi>David</hi> alſo
+<note n="(e)" place="margin">
+                        <hi>Pſal.</hi> 119.164.</note> praiſ<g ref="char:EOLhyphen"/>ed God ſeven times a day: <hi>Paul</hi> beſought the Lord
+<note n="(f)" place="margin">2 <hi>Cor.</hi> 12.8.</note> thrice up<g ref="char:EOLhyphen"/>on one occaſion; and the Primitive Chri<g ref="char:EOLhyphen"/>ſtians
+<pb n="8" facs="tcp:37896:7"/>were com<g ref="char:EOLhyphen"/>manded to pray
+<note n="(g)" place="margin">
+                        <hi>Luke</hi> 18.1. 1 <hi>Theſ.</hi> 5.17.</note> always.</p>
+                  <p>If we diligently watch, and are brought into a right frame of mind, and moved of the Lord to Pray, we need no more doubt of the aſſiſtance of the Holy Spirit, to teach us what we ſhall pray, when we approach before God, than when we are called before Ma<g ref="char:EOLhyphen"/>giſtrates for the ſake of Chriſt, which was promiſed the <hi>Ho<g ref="char:EOLhyphen"/>ly Ghoſt,
+<note n="(h)" place="margin">
+                           <hi>Mark</hi> 13.11.</note> ſhall teach us the ſame hour what to ſay.</hi>
+                  </p>
+                  <p>The Primitive Chriſtians knew not how to pray as they ought, but as the
+<note n="(i)" place="margin">
+                        <hi>Rom.</hi> 8.26.</note> Spirit helpeth their Infirmi<g ref="char:EOLhyphen"/>ties; then ſurely we
+<pb n="9" facs="tcp:37896:7"/>have great need to be diligent in the application of our Minds to the ſame holy Prin<g ref="char:EOLhyphen"/>ciple; that thereby we may be made fit to offer unto God an acceptable Sacrifice, an Of<g ref="char:EOLhyphen"/>fering ſeaſoned with his Grace, from whence God may ſmell a ſweet favour and accept it from us.</p>
+                  <p>The Holy Spirit is the my<g ref="char:EOLhyphen"/>ſtical Salt, whereof the out<g ref="char:EOLhyphen"/>ward Salt under the Law
+<note n="(k)" place="margin">
+                        <hi>Levit.</hi> 2.13.</note> was a Fi<g ref="char:EOLhyphen"/>gure, where it is ſaid, <hi>Neither ſhalt thou ſuffer the Salt of the Covenant of thy God to be lack<g ref="char:EOLhyphen"/>ing from thy Meat-Offering; with all thine Offerings thou ſhalt offer Salt.</hi> This Salt was to ſeaſon and purifie every Sa<g ref="char:EOLhyphen"/>crifice, yea, and every Sacri<g ref="char:EOLhyphen"/>ficer
+<pb n="10" facs="tcp:37896:8"/>too in this Dipenſation; for our Lord Jeſus brought it nearer, when he ſaid <hi>every one muſt be ſalted
+<note n="(l)" place="margin">
+                           <hi>Mark</hi> 9.49.</note> with Fire, and every Sacri<g ref="char:EOLhyphen"/>fice ſhall be ſalted with Salt.</hi> Without which our Offerings will be of no more acceptance with the Lord, than was the Prayers and Oblations of the <hi>Jews</hi> of Old, whom God re<g ref="char:EOLhyphen"/>proved thus, ſaying,
+<note n="(m)" place="margin">
+                        <hi>Iſa.</hi> 1.12.</note> 
+                     <hi>When ye come to appear before me, who hath required theſe things at your hands?</hi> But if we keep the Conditions upon which the promiſes are, the Lord will certainly keep his word; Who ſaid, <hi>ſeek</hi> and ye ſhall <hi>find, ask</hi> and it ſhall be <hi>given, knock</hi> and it ſhall be <hi>opened</hi> unto
+<pb n="11" facs="tcp:37896:8"/>you. Not ſuch Petitioners as the Apoſtle <hi>James</hi> ſpeak of,
+<note n="(n)" place="margin">
+                        <hi>Ja.</hi> 4.3.</note> who <hi>ask'd,</hi> but <hi>re<g ref="char:EOLhyphen"/>ceiv'd not,</hi> becauſe they <hi>ask'd amiſs;</hi> but <hi>ſeek</hi> in <hi>Faith</hi> and Humility, <hi>believing</hi> God is preſent, and able to do <hi>all things.</hi> Our Lord promiſ<g ref="char:EOLhyphen"/>ſed all things,
+<note n="(o)" place="margin">
+                        <hi>Mat.</hi> 21.22.</note> 
+                     <hi>whatſoever ye ask in Prayer, believing, ye ſhall re<g ref="char:EOLhyphen"/>ceive.</hi>
+                  </p>
+                  <p>The Parable of the unjuſt Judge,
+<note n="(p)" place="margin">
+                        <hi>Luke</hi> 18.1. to 8.</note> and im<g ref="char:EOLhyphen"/>portunate Widow; and the Man who call'd up his
+<note n="(q)" place="margin">
+                        <hi>Luk.</hi> 11.5.</note> Neighbour at midnight to ſupply him with Bread to feed his travelling Friend: And of Pa<g ref="char:EOLhyphen"/>rents giving good things to
+<pb n="12" facs="tcp:37896:9"/>their Children,
+<note n="(r)" place="margin">
+                        <hi>Luke</hi> 11.11.</note> are great induce<g ref="char:EOLhyphen"/>ments to us, to be found in the frequent practice of this ex<g ref="char:EOLhyphen"/>cellent Duty.</p>
+                  <p>And tho' the deſpiſed Peo<g ref="char:EOLhyphen"/>ple of God, call'd Quakers, have been evilly traduced, and groſly miſrepreſented, as if they denied this great Or<g ref="char:EOLhyphen"/>dinance or Duty of Prayer; I have not heard of any People upon Earth, who own Prayer more truly, and whoſe Spiri<g ref="char:EOLhyphen"/>tual Intereſt it is ſo to do.</p>
+                  <p n="1">1ſt. They own it truly, be<g ref="char:EOLhyphen"/>cauſe they believe and declare it unto others as a fundamen<g ref="char:EOLhyphen"/>tal Truth, that God in his Mercy hath given unto all Men, thro' Jeſus Chriſt his
+<pb n="13" facs="tcp:37896:9"/>dear Son
+<note n="(s)" place="margin">1 <hi>Cor.</hi> 12.7.</note> a mea<g ref="char:EOLhyphen"/>ſure or manifeſtation of his Spirit to profit withal; without which, as hath been already ſaid, we cannot do any thing acceptable to God. This is the Comſorter that teacheth all things, the word of Faith nigh in the Heart
+<note n="(t)" place="margin">
+                        <hi>Rom.</hi> 10.8.</note> and in the Mouth. It is alſo called the word
+<note n="(v)" place="margin">
+                        <hi>Acts</hi> 20.32.</note> of Grace, which is able to build us up, and give us an Inheritance among them which are ſancti<g ref="char:EOLhyphen"/>fied through Faith which is in Chriſt Jeſus our Lord. This <hi>Word, Spirit, Light</hi> or <hi>Grace</hi> which came by Jeſus, and and thro' him is extended un<g ref="char:EOLhyphen"/>to all Men, is a remedy which God hath in Mercy provided
+<pb n="14" facs="tcp:37896:10"/>for Man; and it is as univerſal as the diſeaſe: <hi>For as by the Offence of one</hi> (Adam,)
+<note n="(†)" place="margin">
+                        <hi>Rom.</hi> 5.18.</note> 
+                     <hi>Judg<g ref="char:EOLhyphen"/>ment came upon all Men to Con<g ref="char:EOLhyphen"/>demnation, even ſo by the Righ<g ref="char:EOLhyphen"/>teouſneſs of one</hi> (Jeſus Chriſt) <hi>the free Gift came upon all Men unto juſtification of Life.</hi> This is the Chriſtians guide and teacher in all things, eſpecial<g ref="char:EOLhyphen"/>ly in things immediately relat<g ref="char:EOLhyphen"/>ing to God; and as this Spirit ſanctifies the Heart, and brings forth a pure Offering out of it, God accepts there<g ref="char:EOLhyphen"/>of; he regards Truth in the inward Parts, not outſide ap<g ref="char:EOLhyphen"/>pearances only, but the ſince<g ref="char:EOLhyphen"/>rity of Heart. It was his de<g ref="char:EOLhyphen"/>mand of Old,
+<note n="(w)" place="margin">
+                        <hi>Prov.</hi> 23.26.</note> 
+                     <hi>Son give me thine Heart.</hi> Not a multitude of
+<pb n="15" facs="tcp:37896:10"/>words without this, will pre<g ref="char:EOLhyphen"/>vail with God. Our Lord re<g ref="char:EOLhyphen"/>proved
+<note n="(x)" place="margin">
+                        <hi>Mat.</hi> 23.14.</note> the Pha<g ref="char:EOLhyphen"/>riſees for their long Prayers, when their Hearts went after their Covetouſneſs, yet thought <hi>like the
+<note n="(y)" place="margin">
+                           <hi>Mat.</hi> 6.7.</note> Hea<g ref="char:EOLhyphen"/>then,</hi> to be heard for their much ſpeaking, or vain repititions; but he commended the poor <hi>Publican,</hi> who in the ſenſe of his Sins made a full Confeſſion, but a ſhort Prayer:
+<note n="(z)" place="margin">
+                        <hi>Luk.</hi> 18.13.</note> 
+                     <hi>God be merciful to me a Sinner;</hi> and pronounced him rather juſtified than the <hi>Pha<g ref="char:EOLhyphen"/>riſee.</hi>
+                  </p>
+                  <p>And becauſe we dare not of<g ref="char:EOLhyphen"/>fer up Prayers to God, until we feel our Hearts moved there<g ref="char:EOLhyphen"/>unto by his Spirit, which mak<g ref="char:EOLhyphen"/>eth
+<pb n="16" facs="tcp:37896:11"/>
+                     <note n="(a)" place="margin">
+                        <hi>Rom.</hi> 8.26.</note> interceſſion for us according to the will of God; no more can we joyn with thoſe who pray without the ſenſe of this Spi<g ref="char:EOLhyphen"/>rit and fear of God, and can immediately turn from their vain and idle Diſcourſes to Prayer, and from their Prayers back again to their Diſcourſes. We have been convinced not only that ſuch Prayer availeth nothing with God, but alſo that he is diſpleaſed with it, for he hath ſaid,
+<note n="(b)" place="margin">
+                        <hi>Exod.</hi> 20.7.</note> 
+                     <hi>I will not hold them Guiltleſs that take my Name in vain.</hi>
+                  </p>
+                  <p>The Publick Prayers put up to God in the name of Je<g ref="char:EOLhyphen"/>ſus, in our Solemn Aſſemblies for the Worſhip of God, as
+<pb n="17" facs="tcp:37896:11"/>many Thouſands can bear us witneſs are evident Proofs that we do not only own, but uſe true Prayer.</p>
+                  <p n="2">2dly. It is our Spiritual In<g ref="char:EOLhyphen"/>tereſt to be frequent in this Practice, for we daily reap the benefit thereof. If God take care of Sparrows,
+<note n="(c)" place="margin">
+                        <hi>Luk.</hi> 12.24. to 28.</note> cloath the Graſs, and array the Lilies, and feed the Ravens
+<note n="(d)" place="margin">
+                        <hi>Job</hi> 38.41.</note> when their young Ones cry unto him, will not he regard us, and hear our Prayers and Cries when we make Supplication to him in the Name of his Son, in whom he is well pleaſed;
+<note n="(e)" place="margin">
+                        <hi>Mar.</hi> 1.11.</note> and for whoſe ſake he is pleaſed with Man, and grants us ſupplies ſuitable to
+<pb n="18" facs="tcp:37896:12"/>our Neceſſities: We have good reaſon to love Prayer, even from the Experience we have felt thereof in our ſelves: And truly as the caſe ſtands with us, we ſhould be very un<g ref="char:EOLhyphen"/>happy without this priviledge. It is well known manifold and cruel have been the Sufferings of this People, whom Men have perſecuted, reviled, and ſpoken all manner of Evil a<g ref="char:EOLhyphen"/>gainſt falſly for the ſake of Chriſt, and the Righteouſ<g ref="char:EOLhyphen"/>neſs of his Kingdom, as our Lord foretold long ſince
+<note n="(f)" place="margin">
+                        <hi>Mar.</hi> 5.10, 11.</note> would be the portion of his followers; and they have not only patiently born what was permitted to come upon them from unrea<g ref="char:EOLhyphen"/>ſonable Men; but Satan alſo
+<pb n="19" facs="tcp:37896:12"/>by himſelf hath uſed great and manifold endeavours if poſſi<g ref="char:EOLhyphen"/>ble to drive them from their Faith and Obedience in Chriſt, to effect which, hath raiſed E<g ref="char:EOLhyphen"/>nemies within, and we have often found it to be as our Lord ſaid, a Man's Enemies
+<note n="(g)" place="margin">
+                        <hi>Mat.</hi> 10.36.</note> are thoſe of his own Houſe, <hi>Inward Aſſaults, Temptations and Buf<g ref="char:EOLhyphen"/>fettings:</hi> The Devil envied and raged at them, the World hated and perſecuted them, what ſad Condition ſhould we be in, if we had not this pri<g ref="char:EOLhyphen"/>viledge to fly to God, and ſeek his Face, like Children, when they are apprehenſive of Dan<g ref="char:EOLhyphen"/>ger, run with great boldneſs to their Parents, and tho' ſome<g ref="char:EOLhyphen"/>times they cannot expreſs
+<pb n="20" facs="tcp:37896:13"/>themſelves to relate their fears and troubles, yet their Parents have Compaſſion, and receive them with open Arms, and ready to defend them to their utmoſt. How much more, as our Lord ſaid,
+<note n="(h)" place="margin">
+                        <hi>Luc.</hi> 11.13. <hi>Joh.</hi> 10.29.</note> 
+                     <hi>Shall our Heavenly Father give the Holy Spirit to them that ask him? None is able to pull us out of his Hands, he is greater than all.</hi>
+                  </p>
+                  <p>It cannot be related what immediate Comfort and di<g ref="char:EOLhyphen"/>vine Aid ſuch have received who truly ſought his Face; whereby they have many in<g ref="char:EOLhyphen"/>fallible Proofs that there is a God
+<note n="(l)" place="margin">
+                        <hi>Pſal.</hi> 65.2.</note> who heareth Prayer, and lifts up the Light of his Countenance upon his Children, whereof
+<pb n="21" facs="tcp:37896:13"/>their Souls are more joyful than thoſe
+<note n="(m)" place="margin">
+                        <hi>Pſal.</hi> 4.7.</note> whoſe Corn and Wine in<g ref="char:EOLhyphen"/>creaſeth, and they have been thereby ſo ſtrengthened and filled with Heavenly Joy, that they have eſteemed all their Sufferings, Tribulations, Slan<g ref="char:EOLhyphen"/>ders and Reproaches, as <hi>Riches,</hi> being ſo many tokens of their Diſcipleſhip to Jeſus, whom they deſire to follow, that they may receive the Promiſe,
+<note n="(n)" place="margin">
+                        <hi>Mat.</hi> 5.12.</note> 
+                     <hi>Great ſhall be your reward in Heaven.</hi>
+                  </p>
+                  <p>Therefore let none ſlander nor defame us with this falſe Charge of denying Prayer; for we do faithfully declare, as above, that we ſincerely own and practiſe it, and have good cauſe to continue therein, both
+<pb n="22" facs="tcp:37896:14"/>our own Experience, and the Examples of others: Holy Men and Women as they are recorded in Holy Scriptures, in the ſeveral Ages of the World, they prayed to God upon many Occaſions and Exi<g ref="char:EOLhyphen"/>gents.</p>
+                  <p>I ſhall give ſome inſtances of ſuch who prayed, and the Lord did ſignally appear, and granted them their Requeſts. Let us pray in Faith as they they did, and our Petitions ſhall be heard, for God is the ſame as ever he was, as will<g ref="char:EOLhyphen"/>ing to hear, and as powerful to ſave as in former Ages. <hi>My Hand is not ſhorten'd that I cannot
+<note n="(o)" place="margin">
+                           <hi>Iſa.</hi> 59.1. and 10.2.</note> ſave, neither is my Ear
+<pb n="23" facs="tcp:37896:14"/>heavy that I cannot hear, ſaith the Lord.</hi>
+                  </p>
+                  <p>But before I ſhall mention thoſe places of Scripture that regard the vertue and power of Prayer, I would be well underſtood what I mean by Prayer; true Prayer is a de<g ref="char:EOLhyphen"/>ſire of the Soul, whether ex<g ref="char:EOLhyphen"/>preſs'd by words or not, from a ſenſe of the want of that the Soul prays for, which ſenſe no Man can give him<g ref="char:EOLhyphen"/>ſelf: It is the Spirit of God alone, and to thoſe this Spirit of Prayer is given, who in ſome meaſure obey the Spirit, turning at its reproof from the evil, and that which is re<g ref="char:EOLhyphen"/>proveable in the ſight of God; and this is the true reaſon why ſo many miſs in this great
+<pb n="24" facs="tcp:37896:15"/>Duty; they pray amiſs, ha<g ref="char:EOLhyphen"/>ving not a ſenſe of what they pray for.</p>
+                  <p>I ſay, true Prayer is not on<g ref="char:EOLhyphen"/>ly words, the beſt of words, for the Eſſence and Life of Prayer, is that divine ſenſe which is received thro' the preparation of the Heart by the Spirit of God; and it is this ſort of Prayer I recom<g ref="char:EOLhyphen"/>mend in this ſhort Diſcourſe; and if People would be ſerious and kind to themſelves as to conſider how little they receive of that they ask for, and how much they are daily found in a Contradiction to their own Prayers; they would eaſily ſee how much they are out of the right way of true Prayer. Our Lord commanded <hi>Watch
+<pb n="25" facs="tcp:37896:15"/>and Pray;</hi> therefore they that would <hi>pray</hi> aright muſt <hi>watch,</hi> they that <hi>watch</hi> muſt <hi>wait:</hi> And what muſt they wait for? that God would pleaſe by his Spirit, to prepare their Hearts to worſhip him acceptably. Therefore no Man can pre<g ref="char:EOLhyphen"/>ſcribe Forms to the Holy Ghoſt: For as the Holy Spirit begets ſenſe of wants, ſo ma<g ref="char:EOLhyphen"/>ny times wants beget words, and ſuch words have a Spirit and Life with them, this is praying in the Name of the Lord Jeſus Chriſt; to wit, in his Divine Power and Au<g ref="char:EOLhyphen"/>thority, and therefore ſucceſs<g ref="char:EOLhyphen"/>ful, and that in all Ages as the following inſtances do evi<g ref="char:EOLhyphen"/>dence and illuſtrate.</p>
+                  <pb n="26" facs="tcp:37896:16"/>
+                  <p> 
+                     <hi>Jacob</hi> wreſtled with the Angel, he wept and made
+<note n="(p)" place="margin">
+                        <hi>Gen.</hi> 32.25. <hi>Hoſ.</hi> 12.3.</note> Supplication, and by his ſtrength he had power with God, and prevailed like a Prince.
+<note n="(q)" place="margin">
+                        <hi>Ja.</hi> 5.17.</note> God ſhut up Hea<g ref="char:EOLhyphen"/>ven at <hi>Elias</hi> Prayer for the ſpace of three years and an half, that there was a great Famine; he prayed a<g ref="char:EOLhyphen"/>gain, and the Heavens gave Rain, and the Earth brought forth Fruits.</p>
+                  <p>At the Prayer
+<note n="(r)" place="margin">
+                        <hi>Joſh.</hi> 10.12.</note> of <hi>Joſhua,</hi> the Sun and Moon ſtood ſtill for the ſpace of a whole day. <hi>Samuel</hi> pray<g ref="char:EOLhyphen"/>ed, and the Lord
+<note n="(s)" place="margin">1 <hi>Sa.</hi> 7.9, 10.</note> diſcomfited his Ene<g ref="char:EOLhyphen"/>mies with a terrible Thunder. <hi>Abraham</hi> prayed, and obtained
+<pb n="27" facs="tcp:37896:16"/>Promiſes of a Son
+<note n="(t)" place="margin">
+                        <hi>Gen.</hi> 15.</note> to be his Heir, and of the Land of <hi>Canaan</hi> for an In<g ref="char:EOLhyphen"/>heritance, with the innumera<g ref="char:EOLhyphen"/>ble increaſe of his Seed. <hi>Jacob</hi> prayed, and eſcaped the edge
+<note n="(u)" place="margin">
+                        <hi>Jen.</hi> 32. and 33. Chap.</note> of the Sword, for he was greatly afraid of his Brother <hi>Eſau;</hi> but God turned the Heart of <hi>Eſau,</hi> that he imbra<g ref="char:EOLhyphen"/>ced him kindly, and parted ſo. <hi>Gideon</hi> in great weak<g ref="char:EOLhyphen"/>neſs prayed
+<note n="(w)" place="margin">
+                        <hi>Judg.</hi> 6.</note> to the Lord, and was made ſtrong, and confirmed by ſigns, and became a deliverer of <hi>Iſrael</hi> out of their Bondage. <hi>Iſaiah</hi> the Prophet, and <hi>Hezekiah</hi> the King prayed,
+<note n="(x)" place="margin">2 <hi>Kings</hi> 19.</note> be<g ref="char:EOLhyphen"/>cauſe of the Threats and Blaſphemy of
+<pb n="28" facs="tcp:37896:17"/>
+                     <hi>Rabſheka</hi> General of the King of <hi>Aſſyrias</hi> Army, and the Lord heard them, and opened the mouth of his Prophet to foretell good unto <hi>Iſrael,</hi> and ſent his Angel who ſlew in one night 185000 Men of the <hi>Aſſyrians,</hi> and <hi>Iſrael</hi> was deli<g ref="char:EOLhyphen"/>vered at that time. At the Prayer
+<note n="(y)" place="margin">
+                        <hi>Gen.</hi> 20.17.</note> of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> God healed <hi>A<g ref="char:EOLhyphen"/>bimelech,</hi> the King, his Queen and Family. At the intreaty
+<note n="(z)" place="margin">
+                        <hi>Gen.</hi> 25.21.</note> of <hi>Iſaac,</hi> after twenty years Marri<g ref="char:EOLhyphen"/>age, God gave him two Sons. <hi>Rebecca,</hi> and <hi>Hannah,</hi> both be<g ref="char:EOLhyphen"/>ſought God, concern<g ref="char:EOLhyphen"/>ing Children, and their Prayers were anſwered. <hi>Moſes, A<g ref="char:EOLhyphen"/>ron,</hi> and <hi>Phineas,</hi> were lively
+<note n="(a)" place="margin">
+                        <hi>Gen.</hi> 25.22. 1 <hi>Sam.</hi> 1.27.</note>
+                     <pb n="29" facs="tcp:37896:17"/>Types of our Lord Jeſus, the one Mediator between God and Men, and were as Savi<g ref="char:EOLhyphen"/>ours to the People, often mak<g ref="char:EOLhyphen"/>ing interceſſion and attone<g ref="char:EOLhyphen"/>ment for them, when the An<g ref="char:EOLhyphen"/>ger
+<note n="(b)" place="margin">
+                        <hi>Exod</hi> 32.11, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>4. <hi>Numb.</hi> 25.13, and 16, 43, <hi>to</hi> 50.</note> of the Lord was kindled againſt them.</p>
+                  <p>Chriſtian Reader, much might be ſaid upon this Subject, and many more Examples brought out of the Holy Scriptures, of thoſe wonderful things wrought by Prayer and Faith, particular<g ref="char:EOLhyphen"/>ly of the many Supplications made to our Bleſſed Lord Je<g ref="char:EOLhyphen"/>ſus when on Earth; upon which he raiſed
+<note n="(c)" place="margin">
+                        <hi>Mat.</hi> 9.25.</note> the Dead, healed
+<pb n="30" facs="tcp:37896:18"/>
+                     <note n="(d)" place="margin">
+                        <hi>Mat.</hi> 8.5, to 13, verſe.</note> the Sick, and for<g ref="char:EOLhyphen"/>gave
+<note n="(e)" place="margin">
+                        <hi>Luk</hi> 7.47.</note> Sins: To which Examples the Apoſtle <hi>James</hi> might allude, when he ex<g ref="char:EOLhyphen"/>horted the Primitive Chriſti<g ref="char:EOLhyphen"/>ans to Prayer: <hi>And if any be Sick, let him call for the Elders of the Church, and let them pray over him; and the
+<note n="(f)" place="margin">
+                           <hi>Ja.</hi> 5.14.</note> Prayer of Faith ſhall ſave the Sick, and the Lord ſhall raiſe him up, and if he have committed Sins, they ſhall be forgiven him.</hi> But I ſhall ſay the leſs, intending to annex hereunto above an Hun<g ref="char:EOLhyphen"/>dred Inſtances Collected out of the Holy Scriptures, where<g ref="char:EOLhyphen"/>by in a ſhort time one may ſee (for incouragement) thoſe miraculous things wrought in
+<pb n="31" facs="tcp:37896:18"/>former Ages; which other<g ref="char:EOLhyphen"/>wiſe we cannot find in much reading, being mixed in Scrip<g ref="char:EOLhyphen"/>ture among other matters. I thought to conclude here, but muſt take notice of another great inducement we have to this Duty; and it is the great<g ref="char:EOLhyphen"/>eſt Example of all that can be brought, to wit, Our Lord Jeſus, he who commanded us to Watch and Pray, ſet us himſelf for a Pattern: And tho' the Father always
+<note n="(g)" place="margin">
+                        <hi>Joh.</hi> 11.41, 42.</note> heard him, yet for the ſake of others, <hi>He cried with a loud voice.</hi> It is ſaid in another place, tho' he was
+<note n="(h)" place="margin">
+                        <hi>Heb.</hi> 5.7.</note> a Son, yet in the days of his Fleſh he offered up <hi>Prayers and Sup<g ref="char:EOLhyphen"/>plication with ſtrong Crying and
+<pb n="32" facs="tcp:37896:19"/>Tears</hi> unto him that was able to ſave him from Death, and was <hi>heard</hi> in that he <hi>feared.</hi> He ſought
+<note n="(i)" place="margin">
+                        <hi>Luk.</hi> 4.4<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. and 5.16.</note> 
+                     <hi>ſolitary</hi> places, praying
+<note n="(k)" place="margin">
+                        <hi>Mat.</hi> 14.23. <hi>Luk.</hi> 9.18.</note> alone unto the Fa<g ref="char:EOLhyphen"/>ther until
+<note n="(l)" place="margin">
+                        <hi>Mark</hi> 6.48.</note> 
+                     <hi>mid<g ref="char:EOLhyphen"/>night;</hi> yea, ſome<g ref="char:EOLhyphen"/>times
+<note n="(m)" place="margin">
+                        <hi>Luk.</hi> 6.12.</note> all <hi>night.</hi> For what were theſe things done, and the Records thereof pre<g ref="char:EOLhyphen"/>ſerved till now, but for our Learning? We have great need of it, for we can have nothing but what we receive; and tho' God be good, and a full fountain of all Bleſſings, he will be ſought unto for theſe things. Therefore let us be faithful in doing what is his will, and refuſing whatſoever
+<pb n="33" facs="tcp:37896:19"/>is contrary thereunto; and we need not doubt but God will hear us when we call up<g ref="char:EOLhyphen"/>on him, as the Scripture ſaith, <hi>If any Man be a Worſhipper
+<note n="(n)" place="margin">
+                           <hi>Joh.</hi> 9.31.</note> of God, and doth his will, Him he heareth.</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>London,</hi> 29, 11. <hi>Month,</hi> 1654/5.</date>
+                     </dateline>
+                     <signed>John Tomkins.</signed>
+                  </closer>
+               </div>
+               <div type="part">
+                  <pb n="34" facs="tcp:37896:20"/>
+                  <head>INSTANCES OF THE <hi>Anſwer of Prayer.</hi>
+                  </head>
+                  <p n="1">1. <hi>ABraham,</hi> the Father of the Faithful, being Childleſs, prayed unto the Lord for an Heir, complaining that <hi>Eliezer,</hi> the Steward of the Houſe, was like to be his Heir. And the word of the Lord came to <hi>Abraham,</hi> pro<g ref="char:EOLhyphen"/>miſing, he whom he ſuppoſed ſhould not be his Heir, but he that ſhall come forth out of his own Bowels ſhall be thine
+<pb n="35" facs="tcp:37896:20"/>Heir, whoſe Seed he promiſed ſhould be for number like the Stars in the Firmament, <hi>Gen.</hi> 15.2, 3, 4, 5.</p>
+                  <p n="2">2. <hi>Abraham</hi> Prayed for <hi>Iſh<g ref="char:EOLhyphen"/>mael</hi> his Son, and God anſwer<g ref="char:EOLhyphen"/>ed him, (and repeated the aboveſaid Promiſe of giving him a Son by his Wiſe <hi>Sarah,</hi>) and ſaid, as for <hi>Iſhmael</hi> I have heard thee; behold I have bleſſed him, and will make him fruitful, and will multi<g ref="char:EOLhyphen"/>ply him exceedingly; twelve Princes ſhall he beget, and I will make him a great Nation, <hi>Gen.</hi> 17.18, 19, 20, which was fulfilled, ſee <hi>Gen.</hi> Chap. 25.13, 14, 15, 16, 18.</p>
+                  <p n="3">3. <hi>Abraham</hi> prayed to the Lord for King <hi>Abimelech,</hi> his Queen, and Family, and they
+<pb n="36" facs="tcp:37896:21"/>bare Children, who before were Barren, <hi>Gen.</hi> 20.17, 18.</p>
+                  <p n="4">4. <hi>Abraham</hi> prayed for <hi>So<g ref="char:EOLhyphen"/>dom,</hi> and the Lord was in<g ref="char:EOLhyphen"/>treated ſo far, that if there were but Ten Righteous Per<g ref="char:EOLhyphen"/>ſons therein, he would ſpare the City for thoſe Ten ſake, <hi>Gen.</hi> 18.23, to 33.</p>
+                  <p n="5">5. At the Prayer of <hi>Lot,</hi> the Lord ſpared the City <hi>Zoar</hi> for a refuge, when he fled from the deſtruction which came upon <hi>Sodom, Gen.</hi> 19.18, to 23.</p>
+                  <p n="6">6. The Eldeſt Servant of <hi>Abraham</hi> prayed to God to give him ſucceſs in his Er<g ref="char:EOLhyphen"/>rand, and a Token whereby he might be certain which was the Perſon that was to be his Maſter's Wife, and the
+<pb n="37" facs="tcp:37896:21"/>Lord granted him his Requeſt; that that very Maid coming to the Well, and ſhould with willingneſs (upon his asking her for Water) ſay to him drink, and I will give thy Cattel alſo, was ſhe whom God had appointed to be a Wife for <hi>Iſaac, Gen.</hi> 24.12, to 45.</p>
+                  <p n="7">7. <hi>Iſaac</hi> being Childleſs for twenty years after Marri<g ref="char:EOLhyphen"/>age with <hi>Rebekah,</hi> prayed to the Lord for his Wife, and the Lord was intreated of him, and <hi>Rebekah</hi> bare <hi>Jacob</hi> and <hi>E<g ref="char:EOLhyphen"/>ſau, Gen.</hi> 25.21, 26.</p>
+                  <p n="8">8. <hi>Rebekah</hi> being with Child, enquired of the Lord, and God anſwered her; two Nations are in thy Womb, and two manner of People
+<pb n="38" facs="tcp:37896:22"/>ſhall be ſeparated from thee, and the one People ſhall be ſtronger than the other, and the Elder ſhall ſerve the Youn<g ref="char:EOLhyphen"/>ger, <hi>Gen.</hi> 25.22, 23.</p>
+                  <p n="9">9. <hi>Jacob</hi> in his return from <hi>Padan-Aram,</hi> News was brought him that his Brother <hi>Eſau</hi> was come out againſt him with Four Hundred Men, and <hi>Jacob</hi> was greatly afraid and diſtreſſed, and prayed unto God for deliverance from the hand of his Brother; and God heard <hi>Jacob,</hi> and turned the Heart of <hi>Eſau,</hi> ſo that when he came near, he ran to meet <hi>Jacob</hi> and embraced him and kiſſed him, <hi>Gen.</hi> 32.6, 9, and 33, and 4.</p>
+                  <p n="10">10. <hi>Jacob</hi> wreſtled with the Angel (and wept, and made
+<pb n="39" facs="tcp:37896:22"/>Supplication to God) and like a Prince, had power with God, and prevailed and obtained what he prayed for (a Bleſ<g ref="char:EOLhyphen"/>ſing) and the Lord bleſſed him, and changed his Name from <hi>Jacob</hi> unto <hi>Iſrael, Gen.</hi> 32.28, <hi>&amp;</hi> 35, 9, 10. <hi>&amp; Hoſea</hi> 12.4.</p>
+                  <p n="11">11. The Children of <hi>Iſrael</hi> ſighed by reaſon of their great Bondage under the <hi>Egyptians,</hi> and they cryed to God, and he heard their Prayers and Groanings, and remembred his Covenant with <hi>Abraham, Iſaac</hi> and <hi>Jacob,</hi> and ſaid, I have heard their Cry by reaſon of their Task-Maſters, and I am come down to deliver them out of the hands of the <hi>Egyp<g ref="char:EOLhyphen"/>tians,
+<pb n="38" facs="tcp:37896:23"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb n="39" facs="tcp:37896:23"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb n="40" facs="tcp:37896:24"/>Exod.</hi> 2.23, 35, <hi>&amp;</hi> 3.7, 8, 9. <hi>Numb.</hi> 20.16.</p>
+                  <p n="12">12. At the Prayer of <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> the Plague of Frogs over the Land of <hi>Egypt</hi> ceaſed, and the Frogs died, <hi>Exod.</hi> 8.12, 13.</p>
+                  <p n="13">13. <hi>Moſes</hi> prayed, and the Plague of Flies alſo ceaſed throughout <hi>Egypt,</hi> for the Lord did according to the word of <hi>Moſes,</hi> and removed the Swarms of Flies from <hi>Pharoah</hi> and his People, there remain<g ref="char:EOLhyphen"/>ed not one, <hi>Exod.</hi> 8.29, 30, 31.</p>
+                  <p n="14">14. Again, at the Prayer of <hi>Moſes,</hi> the Plague of Thun<g ref="char:EOLhyphen"/>der, Lightning, <hi>&amp;c.</hi> ceaſed in the Land of <hi>Egypt,</hi> for as ſoon as <hi>Moſes</hi> went out of the City, and ſpread abroad his Hands
+<pb n="41" facs="tcp:37896:24"/>unto the Lord, the Thunder and Hail ceaſed, and Rain was not poured upon the Earth, <hi>Exod.</hi> 9.28, <hi>to</hi> 33.</p>
+                  <p n="15">15 At the Prayer of <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> the Plague of Locuſts ceaſed, for the Lord turned a mighty ſtrong Weſt Wind which took away the Locuſts and caſt them into the red Sea, there remained not one Locuſt in all the Coaſts of <hi>Egypt, Exod.</hi> 10.17, 18, 19.</p>
+                  <p n="16">16. When <hi>Iſrael</hi> mur<g ref="char:EOLhyphen"/>mur'd at <hi>Marah,</hi> becauſe of the bitterneſs of the Waters, <hi>Moſes</hi> cryed unto the Lord, and the Lord ſhewed him a Tree, which, when he had caſt into the Waters, the Waters were made ſweet, <hi>Exod.</hi> 15.24, 25.</p>
+                  <p n="17">
+                     <pb n="42" facs="tcp:37896:25"/> 17. <hi>Iſrael</hi> murmured a<g ref="char:EOLhyphen"/>gainſt <hi>Moſes</hi> at <hi>Maſſah</hi> for want of Water; he fled to the Lord by Prayer, and cried un<g ref="char:EOLhyphen"/>to him; God heard, and com<g ref="char:EOLhyphen"/>manded him to go to the Rock at Mount <hi>Horeb,</hi> and ſmite it with his Rod, and Water guſhed out thereat ſuf<g ref="char:EOLhyphen"/>ficient for the whole Camp, <hi>Exod.</hi> 17.2, 3, 4, 5, 6.</p>
+                  <p n="18">18. Becauſe of the Ido<g ref="char:EOLhyphen"/>latry of <hi>Iſrael,</hi> in Worſhip<g ref="char:EOLhyphen"/>ing a Molten Calf, when <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> was in the Mount, God's Wrath was kindled againſt them; and the Lord ſaid to <hi>Moſes,</hi> now therefore let me alone that my Wrath may wax hot againſt them, and I may conſume them at once, and <hi>Moſes</hi> beſought the Lord
+<pb n="43" facs="tcp:37896:25"/>his God for his great Names Sake, to turn away from his fierce Wrath, and the Lord repented of the Evil which he had thought to do unto his People, <hi>Exod.</hi> 32.1, <hi>to</hi> 14.</p>
+                  <p n="19">19. <hi>Moſes</hi> prayed to the Lord for his Preſence, and that he would pleaſe to ſhew him his Glory, and the Lord pro<g ref="char:EOLhyphen"/>miſed him his preſence, and alſo condeſcended to <hi>Moſes</hi> in his later requeſt, as far as poor Mortal is capable to receive; and God ſaid to him, thou can'ſt not ſee my Face and live; behold there is a place by me, thou ſhalt ſtand upon a Rock, and it ſhall come to paſs, while my Glory paſſeth by, I will put thee in a clift of the Rock, and cover thee
+<pb n="44" facs="tcp:37896:26"/>with my Hand, and I will take away my Hand, and thou ſhalt ſee my back parts, <hi>Exod.</hi> 33.10 <hi>to</hi> 23.</p>
+                  <p n="20">20. <hi>Iſrael</hi> murmured at <hi>Taberah.</hi> and God was angry with them, and kindled a Fire which burnt amongſt them, and conſumed them in the ut<g ref="char:EOLhyphen"/>termoſt parts of the Camp, and <hi>Moſes</hi> prayed to the Lord and the Fire was quenched, <hi>Numb.</hi> 11.1, 2.</p>
+                  <p n="21">21. Becauſe of the ſediti<g ref="char:EOLhyphen"/>on and murmurings of the <hi>Iſ<g ref="char:EOLhyphen"/>raelites, Moſes</hi> was ſorely op<g ref="char:EOLhyphen"/>preſſed and ſpread his Caſe be<g ref="char:EOLhyphen"/>fore the Lord, complaining that the governing thoſe Peo<g ref="char:EOLhyphen"/>ple was a Burden too heavy for him to bear, and God heard his Complaint, and
+<pb n="45" facs="tcp:37896:26"/>commanded him to gather ſeventy Elders of the People, promiſing he would take off the Spirit that was upon <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> and put it upon them, and they (ſaid the Lord) ſhall bear the Burden of the People with thee, that thou bear it not thy ſelf alone, <hi>Numb.</hi> 11.10, <hi>to</hi> 17.</p>
+                  <p n="22">22. <hi>Aaron</hi> and <hi>Miriam</hi> murmured againſt <hi>Moſes,</hi> for which God was angry with them, and ſtruck <hi>Miriam</hi> with a Leproſie as white as Snow; and <hi>Moſes</hi> prayed to the Lord: ſaying, <hi>heal her now, O God,</hi> and after ſeven days ſhe was received into the Camp again whole, <hi>Numb.</hi> 12.11, <hi>to</hi> 13.</p>
+                  <p n="23">
+                     <pb n="46" facs="tcp:37896:27"/> 23. Upon the Evil Spies report of the good Land, <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> was about to chuſe them Captains to return back to <hi>Egypt</hi> again; and then <hi>Moſes, Aaron, Joſhua</hi> and <hi>Caleb</hi> diſ<g ref="char:EOLhyphen"/>ſwaded them from it, for it provoked God grievouſly; and he ſaid to <hi>Moſes,</hi> I will ſmite them with the Peſtilence and diſinherit them, and will make of thee a greater Nati<g ref="char:EOLhyphen"/>on, <hi>&amp;c.</hi> And <hi>Moſes</hi> prayed to the Lord for <hi>Iſrael,</hi> ſaying, <hi>Let the Power of my Lord be great, and pardon I beſeech thee the Iniquities of this People; and God anſwered</hi> Moſes, <hi>I have pardoned according to thy word,</hi> Numb. 14.1 to 20.</p>
+                  <p n="24">24. At the ſedition of <hi>Corah, Dathan</hi> and <hi>Abiram,</hi>
+                     <pb n="47" facs="tcp:37896:27"/>the Congregation was gather<g ref="char:EOLhyphen"/>ed againſt <hi>Moſes</hi> and <hi>Aaron;</hi> and God bid them ſeparate themſelves from the People, that he might deſtroy them in a moment, and they fell on their Faces and ſaid, <hi>O God, the God of the Spirits of all Fleſh,</hi> ſhall on Man Sin, and wilt thou be wroth with the whole Congregation? And the Lord heard them, and ſpared the Congregation; but bad them ſeparate the People from the three chief movers of the ſedition; and God cauſed the Earth to open and ſwallow them up alive, and all that ap<g ref="char:EOLhyphen"/>pertained to them, <hi>Numb.</hi> 16.1, <hi>to</hi> 32.</p>
+                  <p n="25">25. Becauſe the <hi>Iſraelites</hi> loathed the Manna which God
+<pb n="48" facs="tcp:37896:28"/>gave them from Heaven, they were ſtung with fiery Serpents that they died; and <hi>Moſes</hi> prayed for the People, and the Lord commanded him to ſet up a Braſen Serpent upon a Pole, that every one that looked upon it, ſhould live, <hi>Numb.</hi> 21.3, <hi>to</hi> 9.</p>
+                  <p n="26">26. The Lord acquaint<g ref="char:EOLhyphen"/>ed <hi>Moſes</hi> of his Death; <hi>Moſes</hi> beſought God for a Succeſſor, and God appointed <hi>Joſhua</hi> the Son <hi>Nun,</hi> in the ſtead of <hi>Mo<g ref="char:EOLhyphen"/>ſes, Numb.</hi> 27.12, <hi>to</hi> 20.</p>
+                  <p n="27">27. <hi>Iſrael</hi> fled before their Enemies, <hi>Joſhua</hi> ſought the Lord by Prayer, and the Lord inſtructed him what to do, and how to find out the cauſe thereof, <hi>Joſhua</hi> 7. <hi>Chap.</hi>
+                  </p>
+                  <p n="28">
+                     <pb n="49" facs="tcp:37896:28"/> 28. At the Prayer of <hi>Joſhua,</hi> the Sun and Moon ſtood ſtill, that there was no Day like that before or after; for the Lord hearkened to the voice of a Man, <hi>Joſhua</hi> 10.12, 13, 14.</p>
+                  <p n="29">29. <hi>Iſrael,</hi> under a true ſenſe of their great declenſi<g ref="char:EOLhyphen"/>on from the Law of God, in their Diſtreſs cryed unto the Lord, and he heard their Pray<g ref="char:EOLhyphen"/>ers, and raiſed up <hi>Othniel, Ca<g ref="char:EOLhyphen"/>leb</hi>'s Nephew, who delivered them out of the hand of their Enemies, <hi>Judg.</hi> 3.9, 10.</p>
+                  <p n="30">30. <hi>Iſrael</hi> again did Evil, and the Lord ſuffer'd <hi>Eglon</hi> King of <hi>Moab</hi> to oppreſs them, and they were tributary to him Eighteen years; but they cryed to the Lord under their
+<pb n="50" facs="tcp:37896:29"/>Diſtreſs, and he heard them, and raiſed them up <hi>Ehud</hi> the Son of <hi>Gera,</hi> a Left-handed Man, who delivered <hi>Iſrael</hi> out of the hands of their Enemies, and the Land had reſt Eighty years, <hi>Judg.</hi> 3.15.</p>
+                  <p n="31">31. After <hi>Ehud</hi> was dead, <hi>Iſrael</hi> ſinned again, and provoked the Lord, and he ſold them into the hand of <hi>Ja<g ref="char:EOLhyphen"/>bin</hi> King of <hi>Canaan,</hi> and Twen<g ref="char:EOLhyphen"/>ty years he mightily oppreſſed them; and they cryed to the Lord in their Diſtreſs, and he heard their Prayers, and raiſed up <hi>Deborah</hi> a Judge, and <hi>Ba<g ref="char:EOLhyphen"/>ruck</hi> a General, who reſcued <hi>Iſrael</hi> out of the hands of their Enemies, <hi>Judg.</hi> 4.</p>
+                  <p n="32">32. <hi>Iſrael</hi> ſinned againſt God the fourth time, and he
+<pb n="51" facs="tcp:37896:29"/>ſuffer'd the Midianites greatly to impoveriſh them; ſo that when they had ſown their Corn in the ground, they came and their Cattle, and eat and deſtroyed their increaſe, inſomuch they made them Dens in the Mountains and Caves in the Earth, and they cryed to the Lord becauſe of the Midianites, and he ſent his Prophet to ſhew them their Backſlidings, and raiſed up <hi>Gideon</hi> a poor Threſher of Wheat to be a Judge over them; they overcame <hi>Oreb,</hi> and <hi>Zeeb,</hi> the chief Princes of <hi>Midian,</hi> and obtained quiet for the Country Forty years, <hi>Judg.</hi> 6.7. <hi>&amp;</hi> 8.28.</p>
+                  <p n="33">33. <hi>Gideon</hi> having ſeen an Angel, was afraid, and
+<pb n="52" facs="tcp:37896:30"/>prayed to the Lord, and God heard, and comforted him, <hi>Judg.</hi> 6.22, 23.</p>
+                  <p n="34">34. At the Prayer of <hi>Gideon,</hi> his Fleece of Wool was wet with Dew, and all the ground about it, was dry, <hi>Judg.</hi> 6.36, 38.</p>
+                  <p n="35">35. Again, at the Pray<g ref="char:EOLhyphen"/>er of <hi>Gideon,</hi> his Fleece of Wool was dry, and upon the ground, about it was wet, <hi>Judg.</hi> 6.39, 40.</p>
+                  <p n="36">36. <hi>Iſrael,</hi> for their great Apoſtacy and Worſhip<g ref="char:EOLhyphen"/>ing the Gods of the Nations, the Anger of the Lord was hot againſt them, and he ſuf<g ref="char:EOLhyphen"/>fered the <hi>Philiſtines</hi> and <hi>Am<g ref="char:EOLhyphen"/>monites</hi> to diſtreſs them ſorely, and they cried to the Lord, who at firſt ſeemed to reject
+<pb n="53" facs="tcp:37896:30"/>them, and bid them <hi>Go to the Gods they had ſerved;</hi> but <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> renewed their Suit, and confeſſed their Sins, and for<g ref="char:EOLhyphen"/>ſook them and ſerved the Lord, and his Soul was moved with their Miſery, and God put his Spirit upon <hi>Jeptha,</hi> who was both Judge and General over <hi>Iſrael,</hi> and ſubdued their Ene<g ref="char:EOLhyphen"/>mies under them, <hi>Judg.</hi> 10.11, 12. <hi>Chapt.</hi>
+                  </p>
+                  <p n="37">37. At the Prayer of <hi>Manoah,</hi> the Father of <hi>Samp<g ref="char:EOLhyphen"/>ſon,</hi> the Angel of God, who before had appeared to <hi>Ma<g ref="char:EOLhyphen"/>noah</hi>'s Wife, appeared again unto him, and inſtructed him and his Wife, how they ſhould order <hi>Sampſon</hi> when he was born, <hi>Judg.</hi> 13.8, <hi>to</hi> 14.</p>
+                  <p n="38">
+                     <pb n="54" facs="tcp:37896:31"/> 38. After <hi>Samſon</hi> had ſlain 1000 Men with the Jaw-bone of an Aſs, he was ſore a-thirſt, and prayed to the Lord, and God heard him, and cauſed Water to iſſue out of a hollow place of the Jaw Bone, and <hi>Samſon</hi> drank, and his Spirit was revived, and he called the place <hi>En-hakkore, which is to ſay the will of him that called and cryed,</hi> Judg. 15.15, <hi>to</hi> 19.</p>
+                  <p n="39">39. <hi>Hannah</hi> prayed to the Lord for a Son, and he grant<g ref="char:EOLhyphen"/>ed her the Petition which ſhe asked of him, 1 <hi>Sam.</hi> 1.9, <hi>to</hi> 27.</p>
+                  <p n="40">40. <hi>Eli,</hi> the high Prieſt prayed the Lord to give unto <hi>Hannah</hi> more Children, inſtead of <hi>Samuel,</hi> which ſhe had de<g ref="char:EOLhyphen"/>dicated
+<pb n="55" facs="tcp:37896:31"/>to the Lord, and the Lord anſwered his Requeſt, and gave her three Sons and two Daughters more, 1 <hi>Sam.</hi> 2.20, 21.</p>
+                  <p n="41">41. At the Prayer of <hi>Sa<g ref="char:EOLhyphen"/>muel</hi> the Prophet, and Judge in <hi>Iſrael,</hi> the Lord Thunder'd with a mighty Thunder upon the <hi>Philiſtines</hi> their Adverſa<g ref="char:EOLhyphen"/>ries, and ſo diſcomfited them, that they were ſmitten before <hi>Iſrael,</hi> 1 <hi>Sam.</hi> 7.9, 10, 11.</p>
+                  <p n="42">42. <hi>Iſrael</hi> having requi<g ref="char:EOLhyphen"/>red a King to rule over them, contrary to the mind of God: It grieved <hi>Samuel,</hi> and he prayed to the Lord, and the Lord heard him, and directed him what to do, 1 <hi>Sam.</hi> 8.5, 7, 8, 9.</p>
+                  <p n="43">
+                     <pb n="56" facs="tcp:37896:32"/> 43. At the Prayer of <hi>Sa<g ref="char:EOLhyphen"/>muel,</hi> the Lord ſent Thun<g ref="char:EOLhyphen"/>der and Rain, which cauſed the People greatly to fear the Lord, 1 <hi>Sam.</hi> 12.18.</p>
+                  <p n="44">44. David having heard that <hi>Saul</hi> was coming to <hi>Kei<g ref="char:EOLhyphen"/>lah,</hi> to deſtroy it for his ſake, and that the Men of <hi>Keilah</hi> would deliver him up into the hand of <hi>Saul; David</hi> prayed to the Lord, and beſought him to tell him whether they would do as he had heard, and the Lord anſwered him they will; by which means <hi>David</hi> and his Men left the City, and eſcaped the hands of <hi>Saul,</hi> 1 <hi>Sam.</hi> 23.10, <hi>to</hi> 13.</p>
+                  <p n="45">45. <hi>David</hi> ſeeing 70000 Thouſand fall by the Peſti<g ref="char:EOLhyphen"/>lence,
+<pb n="57" facs="tcp:37896:32"/>prayed to the Lord, and the Lord directed <hi>David</hi> by the Prophet <hi>Gad,</hi> to rear an Altar, and offer Burnt-Offer<g ref="char:EOLhyphen"/>ings thereon, and he did ſo, and the Lord was intreated, and the Plague was ſtayed, 2 <hi>Sam.</hi> 24.17, <hi>to</hi> 25.</p>
+                  <p n="46">46. There was a Fa<g ref="char:EOLhyphen"/>mine in the days of <hi>David</hi> three years, and he ſought the Face of the Lord concerning it, and God anſwered and ſhewed him wherefore it was, and afterwards the Lord was intreated for the Land, 2 <hi>Sam.</hi> 21.1, <hi>&amp;</hi> 14.</p>
+                  <p n="47">47. <hi>Solomon</hi> above all things prayed for Wiſdom, and his Prayer pleaſed the Lord, and he granted him not only Wiſdom, inſomuch that
+<pb n="58" facs="tcp:37896:33"/>he was the Wiſeſt Man that ever was; but God added to his Wiſdom, Riches, and Ho<g ref="char:EOLhyphen"/>nour, ſo that there was no King like him, 1 <hi>King.</hi> 3.7, <hi>to</hi> 12.</p>
+                  <p n="48">48. <hi>Solomon</hi> having finiſhed that Famous Temple, gather<g ref="char:EOLhyphen"/>ed <hi>Iſrael</hi> together at the Con<g ref="char:EOLhyphen"/>ſecration thereof, and kneeled down on a Brazen Scaffold made to that purpoſe, and made a large and ſolemn Pray<g ref="char:EOLhyphen"/>er to God; when he had fi<g ref="char:EOLhyphen"/>niſhed his Prayer, Fire came down from Heaven and con<g ref="char:EOLhyphen"/>ſumed the Burnt-Offering and Sacrifices, and the Glory of the Lord filled the Temple, ſo that the Prieſts could not enter in; and God alſo ap<g ref="char:EOLhyphen"/>peared to <hi>Solomon</hi> by night,
+<pb n="59" facs="tcp:37896:33"/>and ſaid, I have heard thy Prayer; and gave him many Promiſes upon Condition that he and his People ſhould obſerve his Statutes and Judg<g ref="char:EOLhyphen"/>ments, 1 <hi>King.</hi> 8. 2 <hi>Chro.</hi> 6. <hi>&amp; Chap.</hi> 7.1, 12. <hi>to the end.</hi>
+                  </p>
+                  <p n="49">49. At the Prayer of the Man of God, the Arm of <hi>Je<g ref="char:EOLhyphen"/>roboam</hi> King of <hi>Iſrael,</hi> which was dryed up for holding it out againſt the Prophet, was reſtored again, and became as it was before, 1 <hi>King.</hi> 13.6.</p>
+                  <p n="50">50. <hi>Elijah</hi> prayed earneſt<g ref="char:EOLhyphen"/>ly that it might not Rain up<g ref="char:EOLhyphen"/>on the Earth, and it rained not for the ſpace of three years and ſix months, 1 <hi>King.</hi> 17.1. <hi>James</hi> 5.17, 18.</p>
+                  <p n="51">51. <hi>Elijah</hi> prayed again, and the Heavens gave Rain,
+<pb n="60" facs="tcp:37896:34"/>and the Earth brought forth her Fruit after three years and ſix months Drought, 1 <hi>King.</hi> 18.42. <hi>Jam.</hi> 5.18.</p>
+                  <p n="52">52. At the Prayer of <hi>Eli<g ref="char:EOLhyphen"/>jah,</hi> the Son of the Widow of <hi>Zarephath,</hi> was raiſed from the Dead, 1 <hi>King.</hi> 17.20, 21.</p>
+                  <p n="52">53. The <hi>Reubenites, Ga<g ref="char:EOLhyphen"/>dites,</hi> and half Tribe of <hi>Man<g ref="char:EOLhyphen"/>naſah</hi> went out to War againſt the <hi>Agarites,</hi> and they cryed to the Lord in Battle, and he was intreated of them, be<g ref="char:EOLhyphen"/>cauſe they put their truſt in him, and God gave their Ene<g ref="char:EOLhyphen"/>mies into their hands an ex<g ref="char:EOLhyphen"/>ceeding prey, <hi>viz.</hi> 50000 Camels, 250000 Sheep, 2000 Aſſes, and of Men 100000 1 <hi>Chron.</hi> 5.20, 21.</p>
+                  <p n="54">
+                     <pb n="61" facs="tcp:37896:34"/> 54. At the Prayer of <hi>Eli<g ref="char:EOLhyphen"/>jah,</hi> the Fire of the Lord fell and conſumed the Burnt-Sa<g ref="char:EOLhyphen"/>crifice, and the Wood, <hi>&amp;c.</hi> to convince the Idolaters that the Lord was God, 1 <hi>King.</hi> 18.36, <hi>to</hi> 39.</p>
+                  <p n="55">55. <hi>Elijah</hi> being perſecuted by <hi>Jezabel,</hi> fled into the Wil<g ref="char:EOLhyphen"/>derneſs, and there prayed to the Lord; as he was aſleep, an Angel awaked him, and bid him ariſe and eat, for there was a Cake ready bak<g ref="char:EOLhyphen"/>ed on the Coals, and a Cruiſe of Water at his head, and he eat and drank, and lay down again; and the Angel awaked him the ſecond time to eat, and he did eat, and in the ſtrength of that Meat travel<g ref="char:EOLhyphen"/>led forty days and nights to
+<pb n="62" facs="tcp:37896:35"/>
+                     <hi>Horeb</hi> the Mount of God, 1 <hi>King.</hi> 19.4, to 8.</p>
+                  <p n="56">56. At the Prayer of <hi>Eli<g ref="char:EOLhyphen"/>ſha</hi> the <hi>Shunamite</hi>'s Child was raiſed from the Dead, 2 <hi>King.</hi> 4. and 33, 34.</p>
+                  <p n="57">57. At the Prayer of <hi>Eli<g ref="char:EOLhyphen"/>jah</hi> the Lord opened the Eyes of <hi>Eliſha</hi>'s Servant, and he beheld how his Maſter was defended and ſurrounded with Horſes and Chariots of Fire at the ſame time when the Hoſt of the <hi>Syrians</hi> had encom<g ref="char:EOLhyphen"/>paſſed the City to take the Prophet, 2 <hi>King.</hi> 6.13, to 17.</p>
+                  <p n="58">58. At the Prayer of <hi>Eli<g ref="char:EOLhyphen"/>ſha</hi> the Hoſt of the <hi>Syrians</hi> was ſmote with blindneſs, for they were <hi>ſent to apprehend</hi> him, 2 <hi>King.</hi> 6.18.</p>
+                  <p n="59">
+                     <pb n="63" facs="tcp:37896:35"/> 59. They, the Hoſt of the <hi>Syrians,</hi> being blind, the Pro<g ref="char:EOLhyphen"/>phet <hi>Eliſha</hi> led them to <hi>Sama<g ref="char:EOLhyphen"/>ria,</hi> even into the hands of their Enemies, and he prayed the Lord to open their Eyes, and they ſaw, and behold they were in the midſt of <hi>Samaria,</hi> but he would not ſuffer the King of <hi>Iſrael</hi> to hurt them, but cauſed him to prepare Pro<g ref="char:EOLhyphen"/>viſions for them, and they went ſafe home to their Ma<g ref="char:EOLhyphen"/>ſter the King of <hi>Syria,</hi> and came no more into the Land of <hi>Iſrael,</hi> 2 <hi>King.</hi> 6.17 to 23.</p>
+                  <p n="60">60. <hi>
+                        <g ref="char:V">Ʋ</g>zziah</hi> ſought the Lord, and God made him to proſper, and helped him a<g ref="char:EOLhyphen"/>gainſt his Enemies, and made the <hi>Philiſtines, Arabiaas</hi> and <hi>Ammonites,</hi> Tributaries to him;
+<pb n="64" facs="tcp:37896:36"/>but he grew proud with the Succeſs that was given him, and invaded the Prieſts Office, and aſſumed to offer Incenſe in the Temple; for which he was a Leper to the day of his Death, and was depoſed the Kingdom, and his Son <hi>Jotham</hi> reigned in his ſtead, 2 <hi>Chron.</hi> 26. and 2 <hi>King.</hi> 1.5.</p>
+                  <p n="61">61. The Idolatry of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> was ſo great, the Lord ſuffered the Kings of <hi>Syria</hi> to oppreſs them ſorely; and <hi>Je<g ref="char:EOLhyphen"/>hoahaz</hi> beſought the Lord, and the Lord hearkened to him, and gave <hi>Iſrael</hi> a Savi<g ref="char:EOLhyphen"/>our, ſo that they went out from under the hand of the <hi>Sy<g ref="char:EOLhyphen"/>rians,</hi> 2 King. 13.2, to 5.</p>
+                  <p n="62">62. Now for a long time <hi>Iſrael</hi> had been without
+<pb n="65" facs="tcp:37896:36"/>the true God, and without a reaching Prieſt, and without Law. In thoſe times there was no Peace to him that went out, nor to him that came in, but great Vexations were up<g ref="char:EOLhyphen"/>on all the Inhabitants of the Countries; and Nation was deſtroyed of Nation, and Ci<g ref="char:EOLhyphen"/>ty of City; for God did vex them with all Adverſity, and they repented, and put away the abominable Idols out of Land, and ſought the Lord with their whole Deſire, and he was found of them, and gave them Reſt round about, 2 <hi>Chron.</hi> 15.</p>
+                  <p n="63">63. <hi>Sennacherib</hi> King of <hi>Aſſyria,</hi> ſent a blaſphemous threatning Letter to good <hi>He<g ref="char:EOLhyphen"/>zekiah</hi> King of <hi>Judah;</hi> and
+<pb n="66" facs="tcp:37896:37"/>
+                     <hi>Hezekiah</hi> went up into the Houſe of the Lord, and ſpread the Letter before the Lord, and prayed unto the God of <hi>Iſrael;</hi> and the Lord ſent the Prophet <hi>Iſaiah</hi> to comfort him, letting him know he had heard his Prayer, and would defend <hi>Jeruſalem,</hi> and ſave it for his own ſake, and his Ser<g ref="char:EOLhyphen"/>vant <hi>Davids</hi> ſake: And it came to paſs that Night the Angel of the Lord ſlew 185000 of the <hi>Aſſyrian</hi> Hoſt. So <hi>Sennacherib</hi> departed home to <hi>Nineveh,</hi> and his Sons kil<g ref="char:EOLhyphen"/>led him as he was worſhip<g ref="char:EOLhyphen"/>ping his Idol <hi>Niſroch,</hi> 2 King. 19. 2 <hi>Chron.</hi> 32.20, 21.</p>
+                  <p n="64">64. <hi>Huldah</hi> the Prophe<g ref="char:EOLhyphen"/>teſs foretelling the Deſtructi<g ref="char:EOLhyphen"/>on of <hi>Jeruſalem:</hi> But, ſaid ſhe,
+<pb n="67" facs="tcp:37896:37"/>in the Name of the Lord, tell the man that ſent you to me: <hi>Joſiah</hi> King of <hi>Judah,</hi> becauſe thy Heart was tender, and thou haſt humbled thy ſelf before the Lord when thou heardſt what I ſpeak againſt this Place, and the Inhabitants thereof, that they ſhould be<g ref="char:EOLhyphen"/>come a Deſolation and a Curſe, and haſt rent thy Clothes and wept before me, I alſo have heard thee, ſaith the Lord; therefore thou ſhalt go to thy Grave in Peace, and thy Eves ſhall not ſee all the Evil which I will bring upon this Place, 2 <hi>King.</hi> 22.15 to 20.</p>
+                  <p n="65">65. <hi>Hezekiah</hi> receiving the Meſſage of Death from the Prophet <hi>Iſaiah,</hi> turned his
+<pb n="68" facs="tcp:37896:38"/>Face to the Wall, and prayed to the Lord, and the Lord ſent the ſame Prophet back to tell him he had heard his Prayer, and ſeen his Tears, and would add to his Days Fifteen Years, and the King went abroad in Three days after, 2 <hi>King.</hi> 20.</p>
+                  <p n="66">66. <hi>Jehoſaphat</hi> King of <hi>Ju<g ref="char:EOLhyphen"/>dah,</hi> being in great Diſtreſs becauſe of the Army of the <hi>Moabites, Ammonites</hi> and <hi>E<g ref="char:EOLhyphen"/>domites,</hi> who came to Invade the Land, he went to the Tem<g ref="char:EOLhyphen"/>ple, and prayed to God, with all <hi>Judah,</hi> their Wives and little Ones, and the Lord ſent his Prophet <hi>Jehaziel</hi> to com<g ref="char:EOLhyphen"/>fort them, and let them know they ſhould not need to fight againſt them; for the Lord
+<pb n="69" facs="tcp:37896:38"/>cauſed <hi>Moab</hi> and <hi>Ammon</hi> to fight againſt Mount <hi>Seir;</hi> and when they had deſtroyed them, every one helped to de<g ref="char:EOLhyphen"/>ſtroy one another, 2 <hi>Chron.</hi> 20.</p>
+                  <p n="67">67. <hi>Hezekiah</hi> prayed for the People, in as much as they had eaten of the Paſſover, and we not cleanſed according to the Law; and the Lord heark<g ref="char:EOLhyphen"/>ened to <hi>Hezekiah,</hi> and healed the People, 2 <hi>Chron.</hi> 30.18, 19, 20.</p>
+                  <p n="68">68. <hi>Manaſſeh,</hi> that idola<g ref="char:EOLhyphen"/>trous and wicked King, who filled <hi>Jeruſalem</hi> with Blood; for his great and many Im<g ref="char:EOLhyphen"/>pieties God ſuffered the King of <hi>Aſſyria</hi> to carry him Cap<g ref="char:EOLhyphen"/>tive to <hi>Babylon,</hi> bound in Fet<g ref="char:EOLhyphen"/>ters of Iron; and in his Af<g ref="char:EOLhyphen"/>fliction
+<pb n="70" facs="tcp:37896:39"/>he beſought the Lord his God, and humbled himſelf, and prayed unto him, and he was entreated of him, and heard his Supplication, and brought him into his Kingdom again in <hi>Jeruſalem,</hi> 2 <hi>Chron.</hi> 33.12. and he put down Ido<g ref="char:EOLhyphen"/>latry, 2 <hi>King.</hi> 21.16.</p>
+                  <p n="70">70. <hi>Jeroboam,</hi> when he had revolted with the Ten Tribes, there was War between him and <hi>Judah,</hi> 800000 of <hi>Jero<g ref="char:EOLhyphen"/>boams</hi> Army againſt 400000 of <hi>Judah;</hi> and <hi>Iſrael</hi> had caught <hi>Judah</hi> in an Ambu<g ref="char:EOLhyphen"/>ſcade. When <hi>Judah</hi> found their Enemies both before and behind them, they cryed to the Lord; and God heard them, and turned the Succeſs of the War upon <hi>Judah,</hi> and
+<pb n="71" facs="tcp:37896:39"/>ſmote <hi>Jeroboam,</hi> and all <hi>Iſrael,</hi> before <hi>Judah</hi> and <hi>Abijah</hi> their King; and they ſlew of <hi>Iſrael</hi> 500000 choſen Men, 2 <hi>Chron.</hi> 13.</p>
+                  <p n="70">70. <hi>Ezra,</hi> in his Return with ſome of the <hi>Jews</hi> from <hi>Babylon</hi> to <hi>Jeruſalem,</hi> pro<g ref="char:EOLhyphen"/>claimed a Faſt, and beſought the Lord to preſerve them and their little Ones in their Journey; for he was aſhamed to ask the King for a Guard, becauſe he had told him, <hi>the Hand of the Lord was upon all them for good that ſeek him.</hi> So the Lord was entreat<g ref="char:EOLhyphen"/>ed, and his Hand was upon them, and delivered them from all their Enemies that lay in Wait by the Way, <hi>Ezra</hi> 8.21, 22, 23, 31, 32.</p>
+                  <p n="71">
+                     <pb n="72" facs="tcp:37896:40"/> 71. <hi>Nehemiah</hi> being at <hi>Su<g ref="char:EOLhyphen"/>ſan,</hi> and hearing of the Affli<g ref="char:EOLhyphen"/>ction and Reproach of his Brethren (the <hi>Jews</hi>) the Rem<g ref="char:EOLhyphen"/>nant that were left of the Cap<g ref="char:EOLhyphen"/>tivity at <hi>Jeruſalem,</hi> and that the Walls of the City were broken down, and the Gates burnt, he mourned, faſted and prayed before the God of Hea<g ref="char:EOLhyphen"/>ven for <hi>Iſrael,</hi> and that God would turn the Heart of the King towards them; and the Lord heard his Prayer, and enclined the Heart of <hi>Artax<g ref="char:EOLhyphen"/>erxes</hi> Emperor of <hi>Aſſyria,</hi> to grant him Letters of Commiſ<g ref="char:EOLhyphen"/>ſion to build <hi>Jeruſalem,</hi> and repair the Walls thereof, and unto the Governors of the Provinces to aſſiſt <hi>Nehemiah</hi> in this good Work, <hi>Nehem.</hi> 2.</p>
+                  <p n="72">
+                     <pb n="73" facs="tcp:37896:40"/> 72. Wicked <hi>Haman</hi> by Lies obtained of King <hi>Ahaſu<g ref="char:EOLhyphen"/>erus</hi> a Decree for the Deſtru<g ref="char:EOLhyphen"/>ction of the <hi>Jews;</hi> when <hi>Mor<g ref="char:EOLhyphen"/>decai</hi> the <hi>Jew,</hi> knew it, he rent his Clothes, and put on Sack<g ref="char:EOLhyphen"/>cloth, he and <hi>Eſther</hi> the Queen, and all the <hi>Jews</hi> cryed with a bitter Cry to the Lord, and God anſwered their Prayers, and turned the Heart of the King, that he Reverſed the Decree againſt the <hi>Jews,</hi> and <hi>Haman</hi> was hanged upon the ſame Gallows he had erected for <hi>Mordecai;</hi> ſo that the <hi>Jews</hi> had Light and Gladneſs, Joy and Honour, and a good Day, and many of the People of the Land became <hi>Jews. Eſther</hi> 3, 4, 5, 6, 7, 8, and 9 <hi>Chapters.</hi>
+                  </p>
+                  <p n="73">
+                     <pb n="74" facs="tcp:37896:41"/> 73. <hi>Job</hi> in his many grie<g ref="char:EOLhyphen"/>vous, bitter and ſore Exerci<g ref="char:EOLhyphen"/>ciſes, often prayed to the Lord, and kept his Integrity, and the Lord at laſt turned the Captivity of <hi>Job,</hi> and gave him twice as much as he had before, <hi>Job</hi> 7.17 to 20.10. and 14, and 42.10.</p>
+                  <p n="74">74. The Anger of God be<g ref="char:EOLhyphen"/>ing kindled againſt <hi>Job</hi>'s Friends, becauſe they had not ſpoken of <hi>Job</hi> the things which were right, <hi>Job</hi> pray<g ref="char:EOLhyphen"/>ed for them, and offered Burnt-ſacrifice, and the Lord accepted <hi>Job</hi> for them, <hi>Job</hi> 42.7, 8, 9.</p>
+                  <p n="75">75. <hi>David,</hi> when he fled from <hi>Abſalons</hi> his Son, who raiſed a Rebellion in his King<g ref="char:EOLhyphen"/>dom, cryed to the Lord, and
+<pb n="75" facs="tcp:37896:41"/>God heard him out of his holy Hill, and ſmote all his Ene<g ref="char:EOLhyphen"/>mies, and reſtored him again unto his Kingdoms, <hi>Pſal.</hi> 3. 2 <hi>Sam.</hi> 18.8.</p>
+                  <p n="76">76. <hi>David,</hi> in his Diſtreſſes, called upon the Lord, and he heard his Voice out of his Temple, and his Cry entred into his Ears: And God gave him the Necks of his Enemies, and delivered him from the ſtriving of the People; ſo that his Enemies were ſubdued under him, 2 <hi>Sam.</hi> 22. <hi>Pſal.</hi> 18.</p>
+                  <p n="77">77. <hi>David</hi> hid himſelf in a Mountain in the Wilderneſs of <hi>Ziph,</hi> becauſe <hi>Saul</hi> ſought his Life every Day; and the <hi>Ziphims</hi> informed <hi>Saul</hi> there<g ref="char:EOLhyphen"/>of; and <hi>David</hi> prayed to God,
+<pb n="76" facs="tcp:37896:42"/>and the Lord ſuffered not <hi>Saul</hi> to take him; for while he was purſuing <hi>David,</hi> Meſſengers came and told <hi>Saul</hi> the Phili<g ref="char:EOLhyphen"/>ſtins invaded his Countrey. So <hi>David</hi> was delivered at that time, <hi>Pſal.</hi> 54. and 1 <hi>Sam.</hi> 23.14, 26, 28.</p>
+                  <p n="78">78. <hi>David</hi> being hid in the Cave at <hi>Engedi, Saul</hi> and 3000 Choſen Men purſued him; and <hi>David</hi> prayed to the Lord, as may be ſeen in the 57th <hi>Pſalm,</hi> and God heard him, in delivering <hi>Saul</hi> into the Power of <hi>David,</hi> who might have killed him, but would not ſuffer them that would; which had ſuch Ef<g ref="char:EOLhyphen"/>fect upon <hi>Saul,</hi> that he con<g ref="char:EOLhyphen"/>feſſed his Fault, and acknow<g ref="char:EOLhyphen"/>ledged <hi>David</hi> to be more
+<pb n="77" facs="tcp:37896:42"/>righteous than he, and went home, 1 <hi>Sam.</hi> 24.1, 3, 5, 22.</p>
+                  <p n="79">79. <hi>Saul</hi> ſent Souldiers to beſet the Houſe where <hi>David</hi> was, to kill him; and <hi>David</hi> prayed to the Lord to defend and deliver him; and he e<g ref="char:EOLhyphen"/>ſcaped by the means of his Wife <hi>Michal,</hi> 1 <hi>Sam.</hi> 19.12. <hi>Pſal.</hi> 59.</p>
+                  <p n="80">80. <hi>David</hi> ſought the Lord by Prayer, and God heard him, and delivered him out of all his Troubles and Fears, <hi>Pſal.</hi> 34.4.66.17, 19.</p>
+                  <p n="81">81. The Church prayeth to be directed where Chriſt feeds his Flock; he directs her, and gives her gracious Promiſes, <hi>Canticles</hi> 1.6 to 11.</p>
+                  <p n="82">
+                     <pb n="78" facs="tcp:37896:43"/> 82. The Lord ſends forth <hi>Jeremiah,</hi> whom he had or<g ref="char:EOLhyphen"/>dained a Prophet to the Na<g ref="char:EOLhyphen"/>tions; he, in the Senſe of his own Weakneſs, prayed to God, ſaying, <hi>O Lord God, I cannot ſpeak, for I am a Child.</hi> And the Lord anſwered him, <hi>Say not, I am a Child; for thou ſhalt go to all I ſend thee; be not afraid of their Fa<g ref="char:EOLhyphen"/>ces, I am with thee to deliver thee,</hi> Jer. 1.5, 6, 7, 8.</p>
+                  <p n="83">83. <hi>Jeremiah,</hi> becauſe of the Hatred of the People, com<g ref="char:EOLhyphen"/>plaineth to the Lord, and God anſwereth him, <hi>Verily it ſhall be well with thy Remnant, ve<g ref="char:EOLhyphen"/>rily I will cauſe the Enemy to entreat thee well in the time of Evil and Affliction.</hi> Jerem. 15.10.</p>
+                  <p n="84">
+                     <pb n="79" facs="tcp:37896:43"/> 84. <hi>Jeremiah</hi> prayed again to God, and he anſwered him, <hi>If thou take forth the Precious from the Vile, thou ſhalt be as my mouth; and I will deliver thee out of the Hand of the Wicked, and re<g ref="char:EOLhyphen"/>deem thee out of the Hand of the Terrible,</hi> Jer. 15.18 to 21.</p>
+                  <p n="85">85. <hi>Jeremiah,</hi> on behalf of <hi>Judah</hi> and <hi>Jeruſalem,</hi> when in Captivity, called upon the Name of the Lord; and God heard their Voice, and hid not his Ear at the breathing of their Cry, but drew near in the Day they called upon him, and ſaid, <hi>Fear not,</hi> Lam. 3.55, 56, 57.</p>
+                  <p n="86">86. <hi>Ezekiel</hi> beſought the Lord, that he would not make
+<pb n="80" facs="tcp:37896:44"/>a full end of <hi>Iſrael;</hi> and the Lord ſhewed him that he would ſave a Remnant, and gather them from among the People and Countries where they were ſcattered, and gave them one Heart, and put a new Spirit within them, <hi>E<g ref="char:EOLhyphen"/>zek.</hi> 11.13 to 20.</p>
+                  <p n="87">87. At the Prayer of <hi>Da<g ref="char:EOLhyphen"/>niel, Hananiah, Miſhael</hi> and <hi>Azariah</hi> unto the God of Hea<g ref="char:EOLhyphen"/>ven, the Lord revealed <hi>Nebu<g ref="char:EOLhyphen"/>chadnezzar</hi>'s Dream to <hi>Da<g ref="char:EOLhyphen"/>niel,</hi> which neither <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar</hi> could remember, nor all the Wiſe Men of <hi>Chaldea</hi> tell him; and God gave <hi>Da<g ref="char:EOLhyphen"/>niel</hi> alſo the Interpretation of the Dream, <hi>Dan.</hi> 2.17, 18.</p>
+                  <p n="88">88. <hi>Daniel</hi> prayed to the moſt High God for the Return
+<pb n="81" facs="tcp:37896:44"/>of the Captivity of the Peo<g ref="char:EOLhyphen"/>ple <hi>Iſrael;</hi> as ſoon as he be<g ref="char:EOLhyphen"/>gan to pray, God ſent the Angel <hi>Gabriel</hi> before he had ended his Prayer, to comfort him, and inform him of the determined time of the Re<g ref="char:EOLhyphen"/>turn of the Peoples Captivity alſo, touching the <hi>Meſſiah</hi> our Lord Jeſus his coming in the Fleſh, <hi>&amp;c. Dan.</hi> 9.</p>
+                  <p n="89">89. The Lord ſhewed unto <hi>Amos</hi> the Prophet the Judg<g ref="char:EOLhyphen"/>ment of Graſhoppers which he would bring upon <hi>Iſrael;</hi> and the Prophet prayed to the Lord to forgive them, and the Lord heard his Prayer, and repented of what he intend<g ref="char:EOLhyphen"/>ed, and ſaid, It ſhall not be, <hi>Amos</hi> 7.13.</p>
+                  <p n="90">
+                     <pb n="82" facs="tcp:37896:45"/> 90. And the Lord alſo ſhewed to <hi>Amos,</hi> and called to contend by Fire; but the Prophet prayed to the Lord, and the Lord repented again, and ſaid, This alſo ſhall not be, <hi>Amos</hi> 7.4, 6.</p>
+                  <p n="91">91. God having threatned to deſtroy <hi>Nineveh,</hi> the Peo<g ref="char:EOLhyphen"/>ple repented, and cryed migh<g ref="char:EOLhyphen"/>tily to God, and God heard their Prayers, and ſaw their Works, and had Compaſſion, and repented of the Evil that he ſaid he would do unto them, and did it not, <hi>Jonah</hi> 3.3, 10.</p>
+                  <p n="92">92. <hi>Jonah</hi> being Three days and Nights in the Belly of the Fiſh, from thence he pray<g ref="char:EOLhyphen"/>ed unto the Lord, and God heard him, and ſpake unto
+<pb n="83" facs="tcp:37896:45"/>the Fiſh who vomited <hi>Jonah</hi> upon dry Land, <hi>Jonah</hi> 1 and 2 <hi>Chapters.</hi>
+                  </p>
+                  <p n="93">93. At the Centurions Prayer of Faith, our Lord Je<g ref="char:EOLhyphen"/>ſus ſpake the Word, and the Centurion's Servant was heal<g ref="char:EOLhyphen"/>ed, <hi>Matth.</hi> 8.5, 8, 13.</p>
+                  <p n="94">94. The Diſciples of Jeſus being in great Diſtreſs by rea<g ref="char:EOLhyphen"/>ſon of a Storm at Sea, prayed unto him to ſave them, or elſe they periſh; and he aroſe and rebuked the Winds and the Sea, and there was a great Calm, <hi>Mat.</hi> 8.23 to 27.</p>
+                  <p n="95">95. <hi>Peter</hi> walked upon the Sea, but when he ſaw the Wind boiſtrous, his Faith failed, and <hi>Peter</hi> began to ſink, and cryed to his Lord; and Jeſus immediately
+<pb n="84" facs="tcp:37896:46"/>ſtretched forth his Hand, and caught him, <hi>Mat.</hi> 14.29, 30, 31.</p>
+                  <p n="96">96. Tho' our bleſſed Lord Jeſus ſeemed at firſt to reſuſe the <hi>Syro-phenician</hi> Woman, who beſought him to heal her Daughter vexed with a Devil, yet when ſhe would not be denyed, being con<g ref="char:EOLhyphen"/>tent to be counted as the vileſt, ſo ſhe might obtain Mercy from our Lord; he be<g ref="char:EOLhyphen"/>holding her Faith, healed her Dauther, <hi>Mat.</hi> 15.22 to 28. <hi>Mark.</hi> 7.26 to 29.</p>
+                  <p n="97">97. A certain Man having an only Son, who was ſore vexed with a Devil, kneel<g ref="char:EOLhyphen"/>ed down and prayed unto our Lord Jeſus; and he rebuked the Devil, and the Child
+<pb n="85" facs="tcp:37896:46"/>was Cured that very Hour, <hi>Matth.</hi> 17.14 to 18. <hi>Mark</hi> 9.17. <hi>Luke</hi> 9.38.</p>
+                  <p n="98">98. Two blind Men ſit<g ref="char:EOLhyphen"/>ting in the Way, hearing that our Lord paſſed by, cryed to him to have Mercy on them, and the People re<g ref="char:EOLhyphen"/>buked them, but they were the more earneſt in their Suit; and Jeſus had Com<g ref="char:EOLhyphen"/>paſſion on them, and touch<g ref="char:EOLhyphen"/>ed their Eyes, and immedi<g ref="char:EOLhyphen"/>ately they received Sight, and followed him, <hi>Matth.</hi> 20.30, 34.</p>
+                  <p n="99">99. And there came a Le<g ref="char:EOLhyphen"/>per to Jeſus, kneeling down, and ſaid, Lord, if thou wilt, thou can'ſt make me whole; and our Lord touched him, and he was cleanſed from his
+<pb n="86" facs="tcp:37896:47"/>Leproſie, <hi>Mark</hi> 1.40, 41, 42.</p>
+                  <p n="100">100. <hi>Jairus,</hi> one of the Ru<g ref="char:EOLhyphen"/>lers of the Synagogue fell at the feet of Jeſus, beſeeching him to heal his Daughter, who lay at the point of Death, but being detained by the Wo<g ref="char:EOLhyphen"/>man, who was Cured of her Bloody Iſſue by a touch of his Garment: News was brought to the Father his Child was Dead. Our Lord hearing the word, encouraged the Maids Father and went to his Houſe, and raiſed her to Life again, <hi>Mark</hi> 5.22, <hi>to</hi> 41.</p>
+                  <p n="101">101. At <hi>Bethſaida,</hi> they brought a Blind Man to Jeſus, and beſought him to touch him; Jeſus put his hands up<g ref="char:EOLhyphen"/>on him, and he was reſtored
+<pb n="87" facs="tcp:37896:47"/>to his ſight, and ſaw every Man clearly, <hi>Mark</hi> 8.22, <hi>to</hi> 25.</p>
+                  <p n="102">102. Poor Blind <hi>Bartimeus,</hi> was earneſt with our Lord to have mercy on him; being charged to hold his Peace, Cryed the more earneſtly, Je<g ref="char:EOLhyphen"/>ſus comforted him, and bad him go away, and immedi<g ref="char:EOLhyphen"/>ately he received his ſight, <hi>Mark</hi> 10.46.</p>
+                  <p n="103">103. And the Angel ſaid to <hi>Zachariah,</hi> Father of <hi>John</hi> the Baptiſt, Fear not, for thy Prayer is heard, and thy Wife <hi>Elizabeth</hi> ſhall bare thee a Son, <hi>Luk.</hi> 1.13.</p>
+                  <p n="104">104. The Thief upon the Croſs at the laſt Hour repent<g ref="char:EOLhyphen"/>ing, prayed unto our Lord,
+<pb n="88" facs="tcp:37896:48"/>and Jeſus had mercy upon him, and promiſed him that he ſhould be that day with himſelf in Paradice, <hi>Luk.</hi> 23.42, 43.</p>
+                  <p n="105">105. The Church prayed to God that he would direct whether <hi>Juſtus</hi> or <hi>Matthias,</hi> whom they had in choice, was the Perſon whom God did chuſe inſtead of <hi>Judas;</hi> and the Lord ordered it that the Lot fell upon <hi>Matthias, Act.</hi> 1.24, 26.</p>
+                  <p n="106">106. The Church being under Perſecution, fleeth to Pray er, that God would ſtrengthen his Servants to ſpe ak his word boldly; when they had pray<g ref="char:EOLhyphen"/>ed, the place wherein they were aſſembled was ſhaken, as
+<pb n="89" facs="tcp:37896:48"/>a Notice that the Lord heard their Prayer, and they were all filled with the Holy Ghoſt, and they ſpoke the word of God with boldneſs, <hi>Act.</hi> 4.23, <hi>to</hi> 31.</p>
+                  <p n="107">107. At the Prayer of <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> and <hi>John,</hi> the Diſciples received the Holy Ghoſt. <hi>Act.</hi> 15.17.</p>
+                  <p n="108">108. At the Prayer of the Apoſtle <hi>Peter, Tabitha</hi> was raiſed from the Dead, <hi>Act.</hi> 9.40.</p>
+                  <p n="109">109. <hi>Cornelius</hi> the <hi>Centu<g ref="char:EOLhyphen"/>rian</hi> prayed to the Lord al<g ref="char:EOLhyphen"/>ways, and an Angel appeared and told him his Prayers and Alms were come up for a Me<g ref="char:EOLhyphen"/>morial before God, and the Lord ordered it by his Divine
+<pb n="90" facs="tcp:37896:49"/>Providence, that <hi>Cornelius</hi> was farther inform'd concerning the Kingdom of God by the Apoſtle <hi>Peter, Act.</hi> 10.1, 2, 3, 4.30, <hi>to</hi> 43.</p>
+                  <p n="110">110. <hi>Peter</hi> being in Prayer, ſaw a Viſion, wherein he was taught not to deſpiſe the Gen<g ref="char:EOLhyphen"/>tiles, as a Preparation for the Goſpels being Preached to <hi>Cor<g ref="char:EOLhyphen"/>nelius</hi> the <hi>Centurion,</hi> and other Gentiles, <hi>Act.</hi> 10.9, <hi>to</hi> 16.</p>
+                  <p n="111">111. Prayer being made without ceaſing by the Church, for <hi>Peter,</hi> whom <hi>Herod</hi> kept cloſe in Priſon, and intended alſo farther miſchief againſt him, God ſent his Angel who delivered <hi>Peter</hi> out of Priſon, <hi>Act.</hi> 12.5, <hi>to</hi> 11.</p>
+                  <p n="112">
+                     <pb n="91" facs="tcp:37896:49"/> 112. <hi>Paul,</hi> and <hi>Sylas,</hi> be<g ref="char:EOLhyphen"/>ing in Priſon, and in the Stocks, Prayed and Sang Pſalms, and ſuddenly there was a great Earthquake, and immediately all the Doors were opened, and every ones. Bonds were looſed, upon which the Jaylor and all his Houſe believed in God, <hi>Act.</hi> 16.25, <hi>to</hi> 34.</p>
+                  <p n="113">113. <hi>Saul</hi> being ſtruck down by a Light from Hea<g ref="char:EOLhyphen"/>ven, was three days and three nights without Sight, and Faſted and Prayed unto God, and the Lord heard him, and commanded <hi>Ananias</hi> to go to him, and lay his Hands on <hi>Saul,</hi> who was afterwards called <hi>Paul;</hi> and <hi>Ananias</hi> did
+<pb n="92" facs="tcp:37896:50"/>ſo, and <hi>Saul</hi> received his ſight, and ſoon after Preached the Goſpel, <hi>Act.</hi> 9.8, 11, 17, 20.</p>
+                  <p n="114">114. <hi>Paul</hi> prayed, and laid his Hands on the Father of <hi>Pulius,</hi> the Governour of <hi>Mal<g ref="char:EOLhyphen"/>ta,</hi> and he was healed of a Fever, and Bloody Flux, <hi>Act.</hi> 28.8.</p>
+                  <p n="115">115. <hi>Paul</hi> was Buffeted by a Meſſenger of <hi>Satan,</hi> and in his Temptations he beſought the Lord thrice, that it might depart from him, and the Lord heard him, and gave him this Anſwer, <hi>My</hi> Grace <hi>is ſufficient for thee, for my ſtrength is made perfect in weak<g ref="char:EOLhyphen"/>neſs,</hi> 2 Corinth. 12.7, 9.</p>
+                  <pb n="93" facs="tcp:37896:50"/>
+                  <p> 
+                     <hi>And the very God of Peace ſanctifie you wholly; and I pray God your whole Spirit and Soul and Body be preſerved blameleſs unto the coming of our Lord Jeſus. Faithful is he that hath called you, who alſo will do it,</hi> 1 Theſ. 5.23, 24.</p>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:37896:51"/>
+                  <pb facs="tcp:37896:51"/>
+                  <p>AN Earneſt Perſwaſive, By way of POSTSCRIPT, For all to Mind and Receive <hi>Gods Holy Spirit in their Hearts,</hi> That thereby they may be taught True Prayer; And be thoroughly Qualified for the Right Performance of all other Religious Duties.</p>
+                  <q>
+                     <bibl>
+                        <hi>Epheſ. 5.</hi> v. <hi>18, 20.</hi>
+                     </bibl>
+                     <p>Be not Drunk with Wine, wherein is Exceſs, but be filled with the Spirit; giving Thanks always for all Things unto God, even the Father, in the Name of our Lord Jeſus Chriſt.</p>
+                  </q>
+                  <p>By <hi>JOHN FEILD.</hi>
+                  </p>
+               </div>
+            </front>
+            <body>
+               <div type="postscript">
+                  <pb facs="tcp:37896:52"/>
+                  <pb n="97" facs="tcp:37896:52"/>
+                  <head>POSTSCRIPT.</head>
+                  <p>BY the foregoing Teſti<g ref="char:EOLhyphen"/>mony and Inſtances, it plainly appears,</p>
+                  <p>That <hi>Prayer</hi> is of great Uſe and Benefit, and hath been greatly Anſwered, and won<g ref="char:EOLhyphen"/>derfully Encouraged by the Lord.</p>
+                  <p>And it is natural (to all thoſe that God by his Word hath begotten unto a lively Hope in Chriſt his Son, and hath ſent forth his Spirit in<g ref="char:EOLhyphen"/>to their Hearts) for them to cry, Abba
+<note n="(a)" place="margin">
+                        <hi>Gal.</hi> 4.6.</note> Fa<g ref="char:EOLhyphen"/>ther.</p>
+                  <p>Its their Duty to make their Supplications unto him
+<pb n="98" facs="tcp:37896:53"/>that hath begotten them; becauſe it's by the Spirit of his Son in their Hearts, that they ſee their Wants, and the Sufficiency and Willing<g ref="char:EOLhyphen"/>neſs there is in him to ſup<g ref="char:EOLhyphen"/>ply them; who is a God that heareth Prayer.</p>
+                  <p>It's Gods Spirit that makes ſenſible of Wants, begets De<g ref="char:EOLhyphen"/>ſires, and raiſes Cries in the Soul to him; and is therefore principally to be minded and waited in.</p>
+                  <p>Whoſoever ſlights Gods Spirit, neglects to wait in it, and diſregards the Work and Motion of it in their own Hearts, can never rightly and ſenſibly know their Wants, nor what to ask, or pray for, or perform that Duty of Prayer as they ought.</p>
+                  <pb n="99" facs="tcp:37896:53"/>
+                  <p> It's my tender Council and Advice, in great Love, and much good Will to all that believe this is the Goſpel-day long ſince
+<note n="(b)" place="margin">
+                        <hi>Joel</hi> 2.28.</note> prophe<g ref="char:EOLhyphen"/>ſied of; And that own the time is come, where<g ref="char:EOLhyphen"/>in the Father hath (accord<g ref="char:EOLhyphen"/>ing to Chriſt's Prayer, whom he always hears) ſent the Comforter, even the Spirit of Truth, which is the Holy
+<note n="(c)" place="margin">
+                        <hi>John</hi> 14.26.</note> Ghoſt, and that Credit, what the Apoſtle ſaith, who declares a Manifeſtation of the Spirit is given to
+<note n="(d)" place="margin">1 <hi>Cor.</hi> 12.7.</note> every one to profit withal.</p>
+                  <p>To ſuch I ſay,</p>
+                  <p n="1">1. Prize, O prize the great Love of God and Chriſt herein!</p>
+                  <p n="2">
+                     <pb n="100" facs="tcp:37896:54"/> 2. Be humbly thankful unto God for this unſpeak<g ref="char:EOLhyphen"/>able Gift.</p>
+                  <p n="3">3. Anſwer the End for which he hath given this bleſſed Spirit; receive it, wait in it, hearken to it, turn at its Reproofs, and give up to be led by it, that ye may be the Sons of God.</p>
+                  <p n="4">4. And then you thereby will not only like the Publican
+<note n="(e)" place="margin">
+                        <hi>Matth.</hi> 18.13.</note> ſee your Conditions, be mo<g ref="char:EOLhyphen"/>ved to Pray in a Senſe of your Wants, but be enabled to ſerve God acceptably, through Jeſus Chriſt, and taught thereby to worſhip, and live to him, and know his Things, and underſtand the Myſteries of his heavenly Kingdom.</p>
+                  <pb n="101" facs="tcp:37896:54"/>
+                  <p> Therefore I earneſtly be<g ref="char:EOLhyphen"/>beſeech all, ſligh not, grieve, nor
+<note n="(f)" place="margin">1 <hi>Theſſ.</hi> 5.19.</note> quench the Motions of it, neg<g ref="char:EOLhyphen"/>lect not this Gift, nor your dili<g ref="char:EOLhyphen"/>gent waiting upon God in it at all Times, and in all Pla<g ref="char:EOLhyphen"/>ces, in all Services, and Re<g ref="char:EOLhyphen"/>ligious Duties wait in it, to be fitted by it; and neither pray, nor ſing without it; for the true Pray<g ref="char:EOLhyphen"/>ing
+<note n="(g)" place="margin">1 <hi>Cor.</hi> 14.15.</note> is with it, and true Singing in it.</p>
+                  <p>And there is no Acceſs un<g ref="char:EOLhyphen"/>to God, nor Admittance to the Throne of his Grace (to receive Help in the time of Need, but through
+<note n="(h)" place="margin">
+                        <hi>Epheſ.</hi> 2.18. <hi>Rom.</hi> 5.2.</note> Jeſus Chriſt, and by this Spirit.</p>
+                  <pb n="102" facs="tcp:37896:55"/>
+                  <p> And altho' the World that lies in Wickedneſs, hates and grieves this Spirit, mocks and derides at it; and thoſe that direct to it, and are guid<g ref="char:EOLhyphen"/>ed by it, yet this Spirit convinceth
+<note n="(i)" place="margin">
+                        <hi>John</hi> 16.8.</note> them of their Sin and Un<g ref="char:EOLhyphen"/>belief, of their Righteouſneſs and Judgment, which is not given them, nor wrought in them by this Spirit, and therefore it reproves them thereof.</p>
+                  <p>Oh therefore, tender Rea<g ref="char:EOLhyphen"/>der! love, receive, wait in, joyn to obey and follow this Holy Spirit, and then it will open your Underſtandings, quicken your Souls to God; make you alive, and beget you anew to him; waſh and
+<pb n="103" facs="tcp:37896:55"/>ſanctifie your Hearts, purge your Conſciences from dead Works, and bring you to ſerve the living
+<note n="(k)" place="margin">
+                        <hi>Heb.</hi> 9.14.</note> God, who is a Spirit in the Spirit and Truth; and enable you to walk in newneſs
+<note n="(l)" place="margin">
+                        <hi>Rom.</hi> 7.6.</note> of the Spirit, and out of the oldneſs of the Letter, and beget, encreaſe and continue Love in your Hearts and Souls to God and Chriſt, to his Church and People, to his Law and Teſti<g ref="char:EOLhyphen"/>mony, and to the Holy Scri<g ref="char:EOLhyphen"/>ptures, which the Holy Men of God wrought as they were moved by this Holy Ghoſt or Spirit<g ref="char:punc">▪</g> which Spirit I am commanding and recommend<g ref="char:EOLhyphen"/>ing unto you, to be your Con<g ref="char:EOLhyphen"/>ductor and Leader, your
+<pb n="104" facs="tcp:37896:56"/>Guide and Inſtructer in your Pilgrimage through this low World, and Vale of Tears, that ſo you may paſs the time of your ſojourning
+<note n="(m)" place="margin">1 <hi>Pet.</hi> 1.17.</note> here with Fear; and give your ſelves to Reading the Holy Scrip<g ref="char:EOLhyphen"/>tures, and to Waiting upon God in this Spirit, and Pray<g ref="char:EOLhyphen"/>ing to him in it, and Asking of him Wiſdom, and Medi<g ref="char:EOLhyphen"/>tating in his holy Law that converts
+<note n="(n)" place="margin">
+                        <hi>Pſal.</hi> 19.7.</note> the Soul, and regarding his Teſtimony, that makes wiſe the Simple; and do not content your ſelves only to hear of God and Chriſt, and thoſe Memorable Things, and No<g ref="char:EOLhyphen"/>ble Acts of the Righteous, re<g ref="char:EOLhyphen"/>corded in Holy Writ, and that
+<pb n="105" facs="tcp:37896:56"/>plenteous Redemption, eternal Life and Salvation they were Witneſſes and Partakers of, nor with ſaying over Words compiled, and put together by the Wiſdom of Men, called Prayers; but through Recei<g ref="char:EOLhyphen"/>ving and Obeying this Holy Spirit, and believing in God and Chriſt, from whom it proceedeth, may know and partake of that Life and Un<g ref="char:EOLhyphen"/>derſtanding it gives, be born of it, baptized
+<note n="(o)" place="margin">1 <hi>Cor.</hi> 12.13.</note> by it, waſhed, ſanctified and juſtifi<g ref="char:EOLhyphen"/>ed in the Name of the Lord Jeſus Chriſt, and by the Spirit
+<note n="(p)" place="margin">1 <hi>Cor.</hi> 6.11.</note> of our God; and alſo taught and aſſiſted thereby to pray to him, which is the ſincere
+<pb n="106" facs="tcp:37896:57"/>Deſire, and hearty Supplica<g ref="char:EOLhyphen"/>tion of your well-wiſhing Friend,</p>
+                  <p>Who once more earneſtly entreats you not to quench this Spirit, neither diſregard the inward and ſecret Con<g ref="char:EOLhyphen"/>victions, Reproofs, and Coun<g ref="char:EOLhyphen"/>ſel of it, in your Hearts.</p>
+                  <p>For it is that Spirit that ſearcheth
+<note n="(r)" place="margin">1 <hi>Cor.</hi> 2.10.</note> all Things; yea, the deep Things of God; and God by this is certainly reproving and counſelling the Children of Men in this Age and Gene<g ref="char:EOLhyphen"/>ration, as in days paſt; and ſhews and Reproves them for their evil Thoughts, wick<g ref="char:EOLhyphen"/>ed Words, ungodly Deeds, and execrable Oaths; and by this Spirit is certainly coun<g ref="char:EOLhyphen"/>ſelling
+<pb n="107" facs="tcp:37896:57"/>People to think on him, to conſider their Ways, to a<g ref="char:EOLhyphen"/>mend their Doings, to ſpeak in his Fear.</p>
+                  <p>And to <hi>Refrain</hi> from <hi>Oaths,</hi> and <hi>Curſing,</hi> and all ungodly Speaking, and to <hi>Craſe</hi> to do <hi>Evil,</hi> and Learn to do well, that he might waſh away their Sins, and pardon their Offen<g ref="char:EOLhyphen"/>ces, for Chriſts ſake.</p>
+                  <p>Therefore have a care, Oh! have a care, I beſeech you, for your never-dying Souls ſake, for your preſent Peace, and future Happineſs-ſake, that you do not, like them of old, ſet at nought all
+<note n="(s)" place="margin">
+                        <hi>Prov.</hi> 1.24, <hi>to the end.</hi>
+                     </note> Gods Counſel, nor ſlight his Reproofs; for then know aſſuredly God will laugh at your Calamity, and mock
+<pb n="108" facs="tcp:37896:58"/>when your Fear cometh, like De<g ref="char:EOLhyphen"/>folation, and your Deſtruction like a Whirlwind, when Affli<g ref="char:EOLhyphen"/>ction and Anguiſh ſhall come upon you. Then, O then if you call upon him, he will not an<g ref="char:EOLhyphen"/>ſwer: if you ſeek him early, you ſhall not find him, becauſe you hated Knowledge, and did not chuſe the Fear of the Lord, there<g ref="char:EOLhyphen"/>fore you ſhall eat of the Fruit of your own ways, and be filled with your own Devices.</p>
+                  <p>But whoſoever obeyeth Gods Holy Spirit, and is guided by it, ſhall be quiet
+<note n="(t)" place="margin">
+                        <hi>Prov.</hi> 1.33.</note> from Fear of Evil, become his Son, and have a Place in his eter<g ref="char:EOLhyphen"/>nal Kingdom for evermore. Therefore love and obey it, ſaith</p>
+                  <closer>
+                     <signed>Thy Real and Well-wiſhing Friend, <hi>JOHN FEILD.</hi>
+                     </signed>
+                  </closer>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
